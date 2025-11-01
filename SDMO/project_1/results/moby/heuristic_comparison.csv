@@ -1,0 +1,3 @@
+Heuristic,Pairs,TP,FP,Precision,Recall,F1
+Bird Heuristic,523,105.0,418.0,0.201,1.0,0.334
+Improved Heuristic,587,500.0,87.0,0.852,1.0,0.92
