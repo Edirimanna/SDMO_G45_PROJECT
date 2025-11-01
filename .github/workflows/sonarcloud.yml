@@ -37,7 +37,7 @@ jobs:
 
       # 5️⃣ SonarCloud scan
       - name: SonarCloud Scan
-        uses: SonarSource/sonarcloud-github-action@master
+        uses: SonarSource/sonarcloud-github-action@f5e4a1b9e7c3a8f2d0a1c6f1f3e6e6d7a2b8c9d0
         with:
           args: >
             -Dsonar.projectKey=YOUR_PROJECT_KEY
