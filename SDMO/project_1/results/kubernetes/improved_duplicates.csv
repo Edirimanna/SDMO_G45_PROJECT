@@ -1,0 +1,547 @@
+name1,email1,name2,email2,name_similarity,email_similarity,overall_score
+Kubernetes Prow Robot,20407524+k8s-ci-robot@users.noreply.github.com,Kubernetes Prow Robot,k8s-ci-robot@users.noreply.github.com,100.0,75.0,92.5
+Rodrigo Campos,rodrigoca@microsoft.com,Rodrigo Campos,rodrigo@kinvolk.io,100.0,87.5,96.25
+Rodrigo Campos,rodrigoca@microsoft.com,Rodrigo Campos,rodrigo@sdfg.com.ar,100.0,87.5,96.25
+Jordan Liggitt,liggitt@google.com,Jordan Liggitt,jliggitt@redhat.com,100.0,93.33,98.0
+yongruilin,yongrlin@outlook.com,yongruilin,yongrlin@google.com,100.0,100.0,100.0
+Marek Siarkowicz,siarkowicz@google.com,Marek Siarkowicz,marek.siarkowicz@protonmail.com,100.0,76.92,93.08
+Anish Ramasekar,anish.ramasekar@gmail.com,Anish Ramasekar,ramasekar@us.ibm.com,100.0,75.0,92.5
+Abhijit Hoskeri,abhijithoskeri@gmail.com,Abhijit Hoskeri,hoskeri@google.com,100.0,66.67,90.0
+Jan Safranek,jsafrane@redhat.com,Jan Šafránek,jsafrane@redhat.com,100.0,100.0,100.0
+Tim Allclair,tallclair@google.com,Tim Allclair,timallclair@gmail.com,100.0,90.0,97.0
+Benjamin Elder,bentheelder@google.com,Benjamin Elder,ben.the.elder@gmail.com,100.0,91.67,97.5
+Mark Rossetti,marosset@microsoft.com,Mark Rossett,marosset@microsoft.com,96.0,100.0,97.2
+Sean Sullivan,seans@google.com,Sean Sullivan,seans3@gmail.com,100.0,90.91,97.27
+Sean Sullivan,seans@google.com,Sean R. Sullivan,seans3@gmail.com,89.66,90.91,90.03
+Sergey Kanzhelev,S.Kanzhelev@live.com,Sergey Kanzhelev,skanzhelev@google.com,100.0,95.24,98.57
+Kevin Hannon,kehannon@redhat.com,Kevin Hannon,kannon1992@gmail.com,100.0,66.67,90.0
+Peter Hunt,pehunt@redhat.com,Peter Hunt~,pehunt@redhat.com,100.0,100.0,100.0
+Christian Schlotter,christi.schlotter@gmail.com,Christian Schlotter,christian.schlotter@broadcom.com,100.0,94.44,98.33
+Qiming Teng,tengqm@outlook.com,Qiming Teng,tengqim@cn.ibm.com,100.0,92.31,97.69
+Abhishek Kr Srivastav,Abhishek.kr.srivastav@ibm.com,Abhishek Kumar Srivastav,Abhishek.kr.srivastav@ibm.com,93.33,100.0,95.33
+Abhishek Kr Srivastav,Abhishek.kr.srivastav@ibm.com,Abhishek Srivastav,Abhishek.kr.srivastav@ibm.com,92.31,100.0,94.62
+Antonio Ojea,aojea@google.com,Antonio Ojea,aojea@redhat.com,100.0,100.0,100.0
+Heba Elayoty,heelayot@microsoft.com,Heba Elayoty,hebaelayoty@gmail.com,100.0,84.21,95.26
+Ryan Richard,richardry@vmware.com,Ryan Richard,ryan.richard@rackspace.com,100.0,66.67,90.0
+Ciprian Hacman,ciprian@hakman.dev,Ciprian Hacman,ciprian.hacman@sematext.com,100.0,66.67,90.0
+Joel Speed,joel.speed@hotmail.co.uk,Joel Speed,Joel.speed@hotmail.co.uk,100.0,100.0,100.0
+Arda Güçlü,aguclu@redhat.com,Arda Güçlü,ardaguclu@gmail.com,100.0,80.0,94.0
+Paco Xu,paco.xu@daocloud.io,Paco Xu 徐俊杰,paco.xu@daocloud.io,100.0,100.0,100.0
+Paco Xu,paco.xu@daocloud.io,pacoxu,paco.xu@daocloud.io,92.31,100.0,94.62
+Mauricio Poppe,mauricio.poppe@gmail.com,Mauricio Poppe,mauriciopoppe@google.com,100.0,96.3,98.89
+Sascha Grunert,sgrunert@redhat.com,Sascha Grunert,sgrunert@suse.com,100.0,100.0,100.0
+Marc Khouzam,marc.khouzam@gmail.com,Marc Khouzam,marc.khouzam@montreal.ca,100.0,100.0,100.0
+Ahmet Alp Balkan,ahmet@linkedin.com,Ahmet Alp Balkan,ahmetb@google.com,100.0,90.91,97.27
+DerekFrank,dfrankmn@protonmail.com,Derek Frank,dfrankmn@protonmail.com,95.24,100.0,96.67
+Mikhail Mazurskiy,mmazurskiy@gitlab.com,Mikhail Mazurskiy,mmazurskiy@atlassian.com,100.0,100.0,100.0
+Dixita,ndixita@google.com,ndixita,ndixita@google.com,92.31,100.0,94.62
+Craig Ingram,Cjingram@google.com,Craig Ingram,cjingram@google.com,100.0,100.0,100.0
+sreeram-venkitesh,sreeramvenkitesh@gmail.com,Sreeram Venkitesh,sreeramvenkitesh@gmail.com,94.12,100.0,95.88
+sreeram-venkitesh,sreeramvenkitesh@gmail.com,Sreeram Venkitesh,sreeram.venkitesh@bigbinary.com,94.12,96.97,94.97
+roc,roc@imroc.cc,roc,roc@imroc.io,100.0,100.0,100.0
+Sotiris Salloumis,sotiris.salloumis@ericsson.com,Sotiris Salloumis,sotiris.salloumis@est.tech,100.0,100.0,100.0
+@saza-ku,the.latticeheart@gmail.com,saza-ku,the.latticeheart@gmail.com,93.33,100.0,95.33
+James Munnelly,jmunnelly@apple.com,James Munnelly,james.munnelly@jetstack.io,100.0,78.26,93.48
+James Munnelly,jmunnelly@apple.com,James Munnelly,james.munnelly@potential.co.uk,100.0,78.26,93.48
+Janet Kuo,chiachenk@google.com,JanetKuo,chiachenk@google.com,94.12,100.0,95.88
+Mengqi (David) Yu,mengqiyu@amazon.com,David (Mengqi) Yu,mengqiyu@amazon.com,100.0,100.0,100.0
+Mengqi (David) Yu,mengqiyu@amazon.com,David Mengqi Yu,mengqiyu@amazon.com,100.0,100.0,100.0
+Harish Kuna,hakuna@amazon.com,HARISH KUNA,hakuna@amazon.com,100.0,100.0,100.0
+Vinayak Goyal,vinaygo@google.com,vinayak goyal,vinaygo@google.com,100.0,100.0,100.0
+Kazuki Suda,ksuda@preferred.jp,Kazuki Suda,ksuda@zlab.co.jp,100.0,100.0,100.0
+Manjunath A Kumatagi,mkumatag@in.ibm.com,Manjunath Kumatagi,mkumatag@in.ibm.com,94.74,100.0,96.32
+Brendan Shephard,59072170+bshephar@users.noreply.github.com,Brendan Shephard,bshephar@bne-home.net,100.0,66.67,90.0
+Quan Tian,qtian@vmware.com,Quan Tian,quan.tian@broadcom.com,100.0,71.43,91.43
+Karl Isenberg,karlkfi@gmail.com,Karl Isenberg,karl@mesosphere.io,100.0,72.73,91.82
+Karl Isenberg,karlkfi@gmail.com,Karl Isenberg,karlkfi@yahoo.com,100.0,100.0,100.0
+hwdef,hwdefcom@outlook.com,hwdef,hwdef97@gmail.com,100.0,66.67,90.0
+Ricardo Pchevuzinske Katz,ricardo.katz@broadcom.com,Ricardo Pchevuzinske Katz,ricardo.katz@gmail.com,100.0,100.0,100.0
+Ricardo Pchevuzinske Katz,ricardo.katz@broadcom.com,Ricardo Pchevuzinske Katz,ricardo.katz@serpro.gov.br,100.0,100.0,100.0
+Wojciech Tyczyński,wojtekt@google.com,Wojciech Tyczynski,wojtekt@google.com,100.0,100.0,100.0
+David Eads,deads@redhat.com,David Eads,deads2k@users.noreply.github.com,100.0,83.33,95.0
+Rajalakshmi-Girish,rajalakshmi.girish1@ibm.com,Rajalakshmi-Girish1,rajalakshmi.girish1@ibm.com,97.3,100.0,98.11
+Rajalakshmi-Girish,rajalakshmi.girish1@ibm.com,Rajalakshmi-Girish,rajalakshmi.girish@ibm.com,100.0,97.3,99.19
+Ryan Phillips,rphillips@redhat.com,Ryan Phillips,ryan.phillips@coreos.com,100.0,81.82,94.55
+Jack Francis,jackfrancis@gmail.com,Jack Francis,jack.francis@microsoft.com,100.0,95.65,98.7
+vinay kulkarni,vskibum@gmail.com,Vinay Kulkarni,vskibum@gmail.com,100.0,100.0,100.0
+lauralorenz,lauralorenz@google.com,Laura Lorenz,lauralorenz@google.com,95.65,100.0,96.96
+David (Mengqi) Yu,mengqiyu@amazon.com,David Mengqi Yu,mengqiyu@amazon.com,100.0,100.0,100.0
+z1cheng,imchench@gmail.com,z1cheng,im.cchen@foxmail.com,100.0,75.0,92.5
+Nadia Pinaeva,npinaeva@redhat.com,Nadia Pinaeva,n.m.pinaeva@gmail.com,100.0,84.21,95.26
+andyzhangx,xiazhang@microsoft.com,Andy Zhang,xiazhang@microsoft.com,90.0,100.0,93.0
+Alexander Constantinescu,alexander.constantinescu88@gmail.com,Alexander Constantinescu,aconstantinescu@confluent.io,100.0,73.17,91.95
+Aravindh Puthiyaparambil,aravindh.foss@pm.me,Aravindh Puthiyaparambil,aravindh@redhat.com,100.0,76.19,92.86
+Zhonghu Xu,xuzhonghu@huawei.com,xuzhonghu,xuzhonghu@huawei.com,94.74,100.0,96.32
+Zhonghu Xu,xuzhonghu@huawei.com,hzxuzhonghu,xuzhonghu@huawei.com,85.71,100.0,90.0
+Stephen Augustus,foo@auggie.dev,Stephen Augustus,foo@agst.us,100.0,100.0,100.0
+Stephen Heywood,stephen@ii.coop,Stephen Heywood,stephen@heyste.com,100.0,100.0,100.0
+Achraf BOUAOUDA,bouaouda.achraf@gmail.com,ACHRAF BOUAOUDA,33317417+bouaouda-achraf@users.noreply.github.com,100.0,73.68,92.11
+Kir Kolyshkin,kolyshkin@gmail.com,Kirill Kolyshkin,kolyshkin@users.noreply.github.com,89.66,100.0,92.76
+Sreeram Venkitesh,sreeramvenkitesh@gmail.com,Sreeram Venkitesh,sreeram.venkitesh@bigbinary.com,100.0,96.97,99.09
+Sreeram Venkitesh,sreeramvenkitesh@gmail.com,Sreeram Venkitesh,40194401+sreeram-venkitesh@users.noreply.github.com,100.0,78.05,93.41
+Kuba Tużnik,jtuznik@google.com,Jakub Tużnik,jtuznik@google.com,86.96,100.0,90.87
+yunwang0911,yunwang0911@outlook.com,yunwang0911,112385953+yunwang0911@users.noreply.github.com,100.0,70.97,91.29
+PiotrProkop,pprokop@nvidia.com,PiotrProkop,piotr.prokop@intel.com,100.0,73.68,92.11
+Sreeram Venkitesh,sreeram.venkitesh@bigbinary.com,Sreeram Venkitesh,40194401+sreeram-venkitesh@users.noreply.github.com,100.0,76.19,92.86
+runzhliu,runzhliu@163.com,runzhliu,runzhliu@tencent.com,100.0,100.0,100.0
+Sean Sullivan,seans3@gmail.com,Sean R. Sullivan,seans3@gmail.com,89.66,100.0,92.76
+Tomas Tormo,tomas.tormo@nearform.com,Tomas Tormo,tomas.tormo@gmail.com,100.0,100.0,100.0
+Andrew Sy Kim,andrewsy@google.com,Andrew Sy Kim,kim.andrewsy@gmail.com,100.0,80.0,94.0
+Akhil Mohan,akhilerm@gmail.com,Akhil Mohan,makhil@vmware.com,100.0,71.43,91.43
+Mikaël Cluseau,mikael.cluseau@gmail.com,Mikaël Cluseau,mcluseau@isi.nc,100.0,72.73,91.82
+Micah Hausler,mhausler@amazon.com,Micah Hausler,hausler.m@gmail.com,100.0,82.35,94.71
+Andy Goldstein,andy.goldstein@gmail.com,Andy Goldstein,andy.goldstein@redhat.com,100.0,100.0,100.0
+Andy Goldstein,andy.goldstein@gmail.com,Andy Goldstein,goldsteina@vmware.com,100.0,75.0,92.5
+Andy Goldstein,andy.goldstein@gmail.com,Andy Goldstein,agoldste@redhat.com,100.0,72.73,91.82
+Wei Huang,weihuang@apple.com,Wei Huang,wei.huang1@ibm.com,100.0,88.89,96.67
+Will Daly,widaly@microsoft.com,Will Daly,will.e.daly@gmail.com,100.0,70.59,91.18
+Gyuho Lee,gyuhox@gmail.com,Gyuho Lee,gyuho@lepton.ai,100.0,90.91,97.27
+Gyuho Lee,gyuhox@gmail.com,Gyuho Lee,leegyuho@amazon.com,100.0,71.43,91.43
+Gyuho Lee,gyuhox@gmail.com,Gyu-Ho Lee,gyuhox@gmail.com,94.74,100.0,96.32
+Mike Spreitzer,mspreitz@us.ibm.com,MikeSpreitzer,mspreitz@us.ibm.com,96.3,100.0,97.41
+David Porter,david@porter.me,David Porter,david@davidporterapps.com,100.0,100.0,100.0
+Amim Knabben,amim.knabben@gmail.com,Amim Knabben,aknabben@vmware.com,100.0,80.0,94.0
+Michael Fraenkel,michael.fraenkel@gmail.com,Michael Fraenkel,fraenkel@us.ibm.com,100.0,66.67,90.0
+Stefan Bueringer,buringerst@vmware.com,Stefan Bueringer,sbueringer@gmail.com,100.0,80.0,94.0
+lowang-bh,lhui_wang@163.com,lowang_bh,lhui_wang@163.com,88.89,100.0,92.22
+Brian Pursley,bpursley@cinlogic.com,brianpursley,bpursley@cinlogic.com,96.0,100.0,97.2
+John McGrath,8764013+jmcgrath207@users.noreply.github.com,John Mcgrath,john.mcgrath207@gmail.com,100.0,66.67,90.0
+Guy Templeton,guyjtempleton@googlemail.com,GuyTempleton,guy.templeton@skyscanner.net,96.0,92.31,94.89
+Mikalai Radchuk,radchuk.m@gmail.com,Mikalai Radchuk,mradchuk@redhat.com,100.0,82.35,94.71
+guoguangwu,guoguangwug@gmail.com,guoguangwu,guoguangwu@magic-shield.com,100.0,95.24,98.57
+Alex Zielenski,zielenski@google.com,Alex Zielenski,alexzielenski@gmail.com,100.0,81.82,94.55
+Rajalakshmi-Girish1,rajalakshmi.girish1@ibm.com,Rajalakshmi-Girish,rajalakshmi.girish@ibm.com,97.3,97.3,97.3
+Ricardo Katz,ricardo.katz@gmail.com,Ricardo Katz,rikatz@users.noreply.github.com,100.0,66.67,90.0
+Ayodele Abejide,abejideayodele@gmail.com,Àbéjídé Àyodélé,abejideayodele@gmail.com,100.0,100.0,100.0
+Alexander Constantinescu,aconstantinescu@confluent.io,Alexander Constantinescu,aconstan@redhat.com,100.0,69.57,90.87
+Qi Ni,pomelonicky@gmail.com,niqi,pomelonicky@gmail.com,88.89,100.0,92.22
+Mario Valderrama,mario.valderrama@ionos.com,Mario Valderrama,valderrama@strato.de,100.0,76.92,93.08
+Gyuho Lee,gyuho@lepton.ai,Gyuho Lee,leegyuho@amazon.com,100.0,76.92,93.08
+Gyuho Lee,gyuho@lepton.ai,Gyu-Ho Lee,gyuhox@gmail.com,94.74,90.91,93.59
+Steve Kuznetsov,skuznets@redhat.com,Steve Kuznetsov,steve.kuznetsov@gmail.com,100.0,69.57,90.87
+Michael Taufen,mtaufen@google.com,Michael Taufen,mtaufen@gmail.com,100.0,100.0,100.0
+Antoine Pelisse,apelisse@gmail.com,Antoine Pelisse,apelisse@google.com,100.0,100.0,100.0
+Abhishek Kumar Srivastav,Abhishek.kr.srivastav@ibm.com,Abhishek Srivastav,Abhishek.kr.srivastav@ibm.com,85.71,100.0,90.0
+RuquanZhao,ruquan.zhao@arm.com,ruquanzhao,ruquan.zhao@arm.com,100.0,100.0,100.0
+RuquanZhao,ruquan.zhao@arm.com,Ruquan Zhao,ruquan.zhao@arm.com,95.24,100.0,96.67
+Etienne Champetier,e.champetier@ateme.com,Etienne Champetier,champetier.etienne@gmail.com,100.0,66.67,90.0
+justinsb,justinsb@google.com,Justin SB,justinsb@google.com,94.12,100.0,95.88
+justinsb,justinsb@google.com,Justin SB,justin@fathomdb.com,94.12,85.71,91.6
+Cezary Zawadka,czawadka@google.com,Cezary Zawdka,czawadka@google.com,96.3,100.0,97.41
+Vincent Batts,vbatts@hashbangbash.com,Vincent Batts,vbatts@redhat.com,100.0,100.0,100.0
+Vinay Kulkarni,vinaykul@users.noreply.github.com,Vinay Kulkarni,vinay.kulkarni@futurewei.com,100.0,72.73,91.82
+Yuan Chen,yuan_chen3@apple.com,Yuan Chen,yuanchen97@gmail.com,100.0,80.0,94.0
+Dave McCormick,davidemccormick@gmail.com,David McCormick,davidemccormick@gmail.com,89.66,100.0,92.76
+Ricardo Katz,rikatz@users.noreply.github.com,Ricardo Katz,rkatz@vmware.com,100.0,90.91,97.27
+xing-yang,xingyang105@gmail.com,Xing Yang,xingyang105@gmail.com,88.89,100.0,92.22
+Moshe Levi,moshele@nvidia.com,Moshe Levi,moshele@mellanox.com,100.0,100.0,100.0
+dingzhu lurong,1015542478@qq.com,Dingzhu Lurong,1015542478@qq.com,100.0,100.0,100.0
+Shihang Zhang,zshihang@google.com,Shihang Zhang,zhshihang@gmail.com,100.0,94.12,98.24
+Marcel Zieba,marcel.zieba@isovalent.com,Marcel Zięba,marcelzieba@google.com,100.0,95.65,98.7
+Daniel Lipovetsky,dlipovetsky@d2iq.com,Daniel Lipovetsky,daniel.lipovetsky@gmail.com,100.0,78.57,93.57
+Julianne DeMars,judemars@google.com,Julianne DeMars,julianne.demars@gmail.com,100.0,69.57,90.87
+Lukas Grossar,lukas.grossar@adfinis.com,Lukas Grossar,lukas.grossar@adfinis-sygroup.ch,100.0,100.0,100.0
+Andy Goldstein,andy.goldstein@redhat.com,Andy Goldstein,goldsteina@vmware.com,100.0,75.0,92.5
+Andy Goldstein,andy.goldstein@redhat.com,Andy Goldstein,agoldste@redhat.com,100.0,72.73,91.82
+Sathyanarayanan Saravanamuthu,sathyanarays@vmware.com,Sathyanarayanan Saravanamuthu,107846526+sathyanarays@users.noreply.github.com,100.0,72.73,91.82
+Cecile Robert-Michon,cecilerobertm@gmail.com,Cecile Robert-Michon,cerobert@microsoft.com,100.0,76.19,92.86
+Katrina Verey,katrina.verey@shopify.com,Katrina Verey,kn.verey@gmail.com,100.0,76.19,92.86
+Rob Scott,robertjscott@google.com,Rob Scott,rob.scott87@gmail.com,100.0,69.57,90.87
+DingShujie,dingshujie@huawei.com,DingShujie,DingShujie@huawei.com,100.0,100.0,100.0
+Divyen Patel,divyenp@vmware.com,divyenpatel,divyenp@vmware.com,95.65,100.0,96.96
+Justin SB,justinsb@google.com,Justin SB,justin@fathomdb.com,100.0,85.71,95.71
+JunYang,yang.jun22@zte.com.cn,JUN YANG,yang.jun22@zte.com.cn,93.33,100.0,95.33
+Kermit Alexander II,kermitalexandr@google.com,Kermit Alexander,kermitalexandr@google.com,91.43,100.0,94.0
+Chen Wang,chwan@redhat.com,Chen Wang,Chen.Wang1@ibm.com,100.0,66.67,90.0
+Max Goltzsche,max.goltzsche@gmail.com,Max Goltzsche,mgoltzsche@users.noreply.github.com,100.0,86.96,96.09
+Marly Puckett,mpuckett259@gmail.com,Marly Puckett,13648427+mpuckett159@users.noreply.github.com,100.0,66.67,90.0
+Elana Hashman,ehashman@apple.com,Elana Hashman,ehashman@redhat.com,100.0,100.0,100.0
+Elana Hashman,ehashman@apple.com,Elana Hashman,ehashman@users.noreply.github.com,100.0,100.0,100.0
+Elana Hashman,ehashman@apple.com,Elana Hashman,ehashman@twosigma.com,100.0,100.0,100.0
+Mike Danese,mikedanese@google.com,Mike Danese,mikedanese@gmail.com,100.0,100.0,100.0
+Olivier Lemasle,olivier.lemasle@apalia.net,Olivier Lemasle,o.lemasle@gmail.com,100.0,75.0,92.5
+Dipankar Das,dipankardas0115@gmail.com,Dipankar Das,65275144+dipankardas011@users.noreply.github.com,100.0,75.68,92.7
+Paco Xu 徐俊杰,paco.xu@daocloud.io,pacoxu,paco.xu@daocloud.io,92.31,100.0,94.62
+Laszlo Janosi,laszlo.janosi@nokia.com,Laszlo Janosi,laszlo.janosi@ibm.com,100.0,100.0,100.0
+Billie Cleek,bhcleek@gmail.com,Billie Cleek,bcleek@digitalocean.com,100.0,92.31,97.69
+Jason Simmons,1382389+jasimmons@users.noreply.github.com,Jason Simmons,jasimmons90@gmail.com,100.0,66.67,90.0
+Zbynek Roubalik,zroubalik@gmail.com,Zbynek Roubalik,726523+zroubalik@users.noreply.github.com,100.0,75.0,92.5
+Alexandre Garnier,zigarn@gmail.com,Alexandre Garnier,zigarn@users.noreply.github.com,100.0,100.0,100.0
+Andrew Sy Kim,kim.andrewsy@gmail.com,Andrew Kim,kim.andrewsy@gmail.com,86.96,100.0,90.87
+Akanksha kumari,akankshakumari393@gmail.com,Akanksha Kumari,akankshakumari393@gmail.com,100.0,100.0,100.0
+Akanksha kumari,akankshakumari393@gmail.com,akankshakumari393,akankshakumari393@gmail.com,87.5,100.0,91.25
+RainbowMango,qdurenhongcai@gmail.com,RainbowMango,renhongcai@huawei.com,100.0,86.96,96.09
+Akanksha Kumari,akankshakumari393@gmail.com,akankshakumari393,akankshakumari393@gmail.com,87.5,100.0,91.25
+Takashi Kusumi,tkusumi@zlab.co.jp,Takashi Kusumi,takashi.kusumi@gmail.com,100.0,66.67,90.0
+Aaron Crickenberger,spiffxp@google.com,Aaron Crickenberger,spiffxp@gmail.com,100.0,100.0,100.0
+Matthew Wong,mattwon@amazon.com,Matthew Wong,mawong@redhat.com,100.0,76.92,93.08
+Deep Debroy,ddebroy@gmail.com,Deep Debroy,ddebroy@docker.com,100.0,100.0,100.0
+Marcus Puckett,13648427+mpuckett159@users.noreply.github.com,Marcus Puckett,mpuckett259@gmail.com,100.0,66.67,90.0
+10284789刁浩,diao.hao@zte.com.cn,刁浩 10284789,diao.hao@zte.com.cn,100.0,100.0,100.0
+Nick Santos,nick.santos@docker.com,Nick Santos,nicholas.j.santos@gmail.com,100.0,71.43,91.43
+Guillaume Le Biller,glebiller@expediagroup.com,Guillaume Le Biller,glebiller@Traveldoo.com,100.0,100.0,100.0
+Elana Hashman,ehashman@redhat.com,Elana Hashman,ehashman@users.noreply.github.com,100.0,100.0,100.0
+Elana Hashman,ehashman@redhat.com,Elana Hashman,ehashman@twosigma.com,100.0,100.0,100.0
+ruquanzhao,ruquan.zhao@arm.com,Ruquan Zhao,ruquan.zhao@arm.com,95.24,100.0,96.67
+Khaled (Kal) Henidak,khnidk@outlook.com,Khaled Henidak (Kal),khnidk@outlook.com,100.0,100.0,100.0
+Khaled (Kal) Henidak,khnidk@outlook.com,Khaled Henidak(Kal),khnidk@microsoft.com,97.14,100.0,98.0
+Haleygo,hui.wang@daocloud.io,haleygo,hui.wang@daocloud.io,100.0,100.0,100.0
+AHMED AGHADI,ahmedaghadi123@gmail.com,Ahmed Aghadi,ahmedaghadi123@gmail.com,100.0,100.0,100.0
+KeZhang,zhang.ke106@zte.com.cn,Ke Zhang,zhang.ke106@zte.com.cn,93.33,100.0,95.33
+Shu Muto,shu.mutow@nec.com,Shu Muto,shu.mutow@gmail.com,100.0,100.0,100.0
+Varsha Teratipally,teratipally@google.com,varsha teratipally,teratipally@google.com,100.0,100.0,100.0
+CJ Cullen,cjcullen@google.com,CJ Cullen,cjcullen888@gmail.com,100.0,84.21,95.26
+Chao Xu,xuchao@google.com,Chao Xu,xuchao@silkubi.fra.corp.google.com,100.0,100.0,100.0
+Chao Xu,xuchao@google.com,Chao Xu,caesarxuchao@users.noreply.github.com,100.0,66.67,90.0
+Julian V. Modesto,julianvmodesto@google.com,Julian V. Modesto,julianvmodesto@gmail.com,100.0,100.0,100.0
+Julian V. Modesto,julianvmodesto@google.com,Julian V. Modesto,julian.modesto@liveramp.com,100.0,92.86,97.86
+Paul Morie,pmorie@apple.com,Paul Morie,pmorie@redhat.com,100.0,100.0,100.0
+Paul Morie,pmorie@apple.com,Paul Morie,pmorie@gmail.com,100.0,100.0,100.0
+Kebe,kebe.liu@daocloud.io,KEBE,kebe.liu@daocloud.io,100.0,100.0,100.0
+Elana Hashman,ehashman@users.noreply.github.com,Elana Hashman,ehashman@twosigma.com,100.0,100.0,100.0
+Joseph Burnett,josephburnett79@gmail.com,Joseph Burnett,josephburnett@google.com,100.0,92.86,97.86
+Odin Ugedal,odin@uged.al,Odin Ugedal,odin@ugedal.com,100.0,100.0,100.0
+Kenichi Omichi,ken-oomichi@wx.jp.nec.com,Ken'ichi Ohmichi,ken-oomichi@wx.jp.nec.com,96.55,100.0,97.59
+haichao li,Haichao.Li@arm.com,Haichao Li,Haichao.li@arm.com,100.0,100.0,100.0
+Eric Ernst,eric_ernst@apple.com,Eric Ernst,eric.ernst@intel.com,100.0,90.0,97.0
+Alexey Perevalov,alexey.perevalov@huawei.com,Alexey Perevalov,a.perevalov@samsung.com,100.0,81.48,94.44
+vikram Jadhav,vikramcse.10@gmail.com,Vikram Jadhav,vikramcse.10@gmail.com,100.0,100.0,100.0
+Khaled Henidak (Kal),khnidk@outlook.com,Khaled Henidak(Kal),khnidk@microsoft.com,97.14,100.0,98.0
+saad-ali,saadali@google.com,saadali,saadali@google.com,93.33,100.0,95.33
+Ricardo Pchevuzinske Katz,ricardo.katz@gmail.com,Ricardo Pchevuzinske Katz,ricardo.katz@serpro.gov.br,100.0,100.0,100.0
+harjas,harjasbathla@gmail.com,Harjas,harjasbathla@gmail.com,100.0,100.0,100.0
+xuzhonghu,xuzhonghu@huawei.com,hzxuzhonghu,xuzhonghu@huawei.com,90.0,100.0,93.0
+Pengfei Ni,feiskyer@gmail.com,Pengfei Ni,feiskyer@users.noreply.github.com,100.0,100.0,100.0
+Rajas Kakodkar,rajaskakodkar16@gmail.com,Rajas Kakodkar,rajas.kakodkar@ibm.com,100.0,89.66,96.9
+raymonder jin,rayjingithub@gmail.com,Raymonder jin,rayjingithub@gmail.com,100.0,100.0,100.0
+Andrew Rynhard,andrew@rynhard.io,Andrew Rynhard,andrew@andrewrynhard.com,100.0,100.0,100.0
+Cong Liu,conliu@google.com,Cong Liu,congliu.thu@gmail.com,100.0,70.59,91.18
+Mohamed Chiheb Ben Jemaa,mc.benjemaa@gmail.com,Mohamed chiheb Ben jemaa,mc.benjemaa@gmail.com,100.0,100.0,100.0
+Andrew Keesler,akeesler@vmware.com,Andrew Keesler,ankeesler1@gmail.com,100.0,88.89,96.67
+Jerry-Ge,jerry.ge@arm.com,Jerry.Ge,jerry.ge@arm.com,87.5,100.0,91.25
+Oz N Tiram,oz.tiram@gmail.com,Oz N Tiram,oz.tiram@mobilityhouse.com,100.0,100.0,100.0
+Sahil Raja,sahilraja242@gmail.com,Sahil Raja,sahil.raja@mayadata.io,100.0,81.82,94.55
+Dan Lorenc,dlorenc@google.com,Dan Lorenc,lorenc.d@gmail.com,100.0,80.0,94.0
+Minhan Xia,mixia@google.com,Minhan Xia,Minhan.Xia@gmail.com,100.0,66.67,90.0
+jornshen,shencanhui1@huawei.com,jornshen,shencanhui@foxmail.com,100.0,95.24,98.57
+Saverio Proto,saverioproto@google.com,Saverio Proto,saverio.proto@switch.ch,100.0,96.0,98.8
+Gautier Delorme,gautier.delorme@gmail.com,Gautier Delorme,gdelorme@apple.com,100.0,69.57,90.87
+Geon-Ju Kim,geonju42@gmail.com,Geonju Kim,geonju42@gmail.com,95.24,100.0,96.67
+André Bauer,monotek23@gmail.com,André Bauer,monotek@users.noreply.github.com,100.0,87.5,96.25
+s-ito-ts,s-ito_ts@nec.com,s-ito-ts,s-ito@ts.jp.nec.com,100.0,76.92,93.08
+Wilson E. Husin,wilsonehusin@gmail.com,Wilson E. Husin,wilsonehusin@users.noreply.github.com,100.0,100.0,100.0
+Laila Kassar,laila.m.kassar@gmail.com,Laila Kassar,lakassar@microsoft.com,100.0,72.73,91.82
+Joel Smith,joelsmith@redhat.com,Joel Smith,joesmith@redhat.com,100.0,94.12,98.24
+Kevin Wiesmueller,kwiesmul@redhat.com,Kevin Wiesmüller,kwiesmueller@seibert-media.net,96.97,80.0,91.88
+Zzde,zhangxh1997@gmail.com,zzde,zhangxh1997@gmail.com,100.0,100.0,100.0
+Andrea Nodari,and.nodari@gmail.com,Andrea Nodari,anodari@pivotal.io,100.0,82.35,94.71
+Brendan Burns,bburns@microsoft.com,Brendan Burns,bburns@google.com,100.0,100.0,100.0
+Brendan Burns,bburns@microsoft.com,brendandburns,bburns@google.com,92.31,100.0,94.62
+uzuku,danielwsam@gmail.com,Uzuku,danielwsam@gmail.com,100.0,100.0,100.0
+Bob Killen,bobkillen@google.com,Bob Killen,bob.killen@linux.com,100.0,94.74,98.42
+Bob Killen,bobkillen@google.com,Bob Killen,rkillen@umich.edu,100.0,75.0,92.5
+Joakim Roubert,joakimr@axis.com,Joakim Roubert,joakim.roubert@axis.com,100.0,66.67,90.0
+Lorenz Brun,lorenz@brun.one,Lorenz Brun,lorenz@nexantic.com,100.0,100.0,100.0
+Lorenz Brun,lorenz@brun.one,Lorenz Brun,lorenz@dolansoft.org,100.0,100.0,100.0
+Matthew Fenwick,mfenwick100@gmail.com,Matt Fenwick,mfenwick100@gmail.com,88.89,100.0,92.22
+Yecheng Fu,fuyecheng@pingcap.com,Yecheng Fu,fuyecheng@qiniu.com,100.0,100.0,100.0
+choury,chouryzhou@tencent.com,choury,choury@users.noreply.github.com,100.0,75.0,92.5
+Solly Ross,sollyross@google.com,Solly Ross,sross@redhat.com,100.0,71.43,91.43
+Robin Černín,cerninr@gmail.com,Robin Cernin,cerninr@gmail.com,100.0,100.0,100.0
+Adelina Tuvenie,adelina-t@users.noreply.github.com,Adelina Tuvenie,adelinatuvenie@gmail.com,100.0,69.57,90.87
+Justin Santa Barbara,justinsb@google.com,Justin Santa Barbara,justin@fathomdb.com,100.0,85.71,95.71
+Haoran Wang,haowang@redhat.com,Haoran Wang,Haowang@redhat.com,100.0,100.0,100.0
+David Xia,dxia@spotify.com,David Xia,davidxia@users.noreply.github.com,100.0,66.67,90.0
+Lorenz Brun,lorenz@nexantic.com,Lorenz Brun,lorenz@dolansoft.org,100.0,100.0,100.0
+jinde.zgm,51435987+jindezgm@users.noreply.github.com,jindezgm,51435987+jindezgm@users.noreply.github.com,94.12,100.0,95.88
+Hao Yuan,haoyuan@mail.ustc.edu.cn,haoyuan,haoyuan.ge@caicloud.io,93.33,82.35,90.04
+Harsh Singh,harsh.prateek.singh@gmail.com,Harsh Singh,harsh.singh@grofers.com,100.0,73.33,92.0
+Renaud Gaubert,rgaubert@nvidia.com,Renaud Gaubert,renaud.gaubert@gmail.com,100.0,72.73,91.82
+weiwei,weiwei@tenxcloud.com,Wei Wei,weiwei@qiniu.com,92.31,100.0,94.62
+James DeFelice,james.defelice@gmail.com,James DeFelice,james.defelice@ishisystems.com,100.0,100.0,100.0
+jay vyas,jayunit100.github@gmail.com,jay vyas,jayunit100@gmail.com,100.0,74.07,92.22
+Pat Christopher,coffeepac@gmail.com,Patrick Christopher,coffeepac@gmail.com,88.24,100.0,91.76
+mattjmcnaughton,mattjmcnaughton@gmail.com,Matt McNaughton,mattjmcnaughton@gmail.com,93.33,100.0,95.33
+fabriziopandini,fpandini@vmware.com,fabriziopandini,fabrizio.pandini@gmail.com,100.0,66.67,90.0
+Marc Power,marcpow@hotmail.com,Marc Power,marcpow@microsoft.com,100.0,100.0,100.0
+lubronzhan,lzhan@vmware.com,lubronzhan,lubronzhan@gmail.com,100.0,66.67,90.0
+Rodrigo Campos,rodrigo@kinvolk.io,Rodrigo Campos,rodrigo@sdfg.com.ar,100.0,100.0,100.0
+Jason DeTiberus,detiberusj@vmware.com,Jason DeTiberus,detiber@gmail.com,100.0,82.35,94.71
+Julian V. Modesto,julianvmodesto@gmail.com,Julian V. Modesto,julian.modesto@liveramp.com,100.0,92.86,97.86
+toyoda,k-toyoda@nec.com,toyoda,k-toyoda@pi.jp.nec.com,100.0,100.0,100.0
+James Munnelly,james.munnelly@jetstack.io,James Munnelly,james.munnelly@potential.co.uk,100.0,100.0,100.0
+Julien Balestra,julien.balestra@datadoghq.com,Julien Balestra,julien.balestra@gmail.com,100.0,100.0,100.0
+Damon Wang,wangdekui@inspur.com,Damon Wang,wangdk@inspur.com,100.0,80.0,94.0
+Rafal Wicha,rafal.wicha@gmail.com,Rafał Wicha,rafal.wicha@gmail.com,95.24,100.0,96.67
+Dan Winship,danw@redhat.com,Dan Winship,danw@gnome.org,100.0,100.0,100.0
+Marcin Maciaszczyk,maciaszczykm@icloud.com,Marcin Maciaszczyk,marcin.maciaszczyk@ts.fujitsu.com,100.0,73.33,92.0
+Marcin Maciaszczyk,maciaszczykm@icloud.com,Marcin Maciaszczyk,maciaszczykm@users.noreply.github.com,100.0,100.0,100.0
+Marcin Maciaszczyk,maciaszczykm@icloud.com,Marcin Maciaszczyk,Marcin.Maciaszczyk@ts.fujitsu.com,100.0,73.33,92.0
+Bob Killen,bob.killen@linux.com,Bob Killen,rkillen@umich.edu,100.0,70.59,91.18
+Johannes M. Scheuermann,joh.scheuer@gmail.com,Johannes Scheuermann,joh.scheuer@gmail.com,93.02,100.0,95.12
+Patrick Lang,patrick.lang@hotmail.com,Patrick Lang,PatrickLang@users.noreply.github.com,100.0,95.65,98.7
+MorrisLaw,jeremylevanmorris@gmail.com,morrislaw,jeremylevanmorris@gmail.com,100.0,100.0,100.0
+Phillip Wittrock,pwittroc@google.com,Phillip Wittrock,pwittroc+github@google.com,100.0,72.73,91.82
+Phillip Wittrock,pwittroc@google.com,Phillip Wittrock,pwittrock@users.noreply.github.com,100.0,94.12,98.24
+Kevin Taylor,kevin.taylor0811@gmail.com,Kevin Taylor,kevtaylor@expedia.com,100.0,72.0,91.6
+Adelina Tuvenie,adelinatuvenie@gmail.com,Adelina Tuvenie,atuvenie@cloudbasesolutions.com,100.0,72.73,91.82
+Eric Mountain,eric.mountain@datadoghq.com,Eric Mountain,eric.mountain@amadeus.com,100.0,100.0,100.0
+Łukasz Osipiuk,lukaszos@google.com,Łukasz Osipiuk,lukasz@osipiuk.net,100.0,85.71,95.71
+immutablet,alextc@google.com,immutableT,alextc@google.com,100.0,100.0,100.0
+Gab Satch,gsatchithanantham@pivotal.io,Gab Satchi,gsatchithanantham@pivotal.io,94.74,100.0,96.32
+andrewsykim,kim.andrewsy@gmail.com,Andrew Kim,kim.andrewsy@gmail.com,85.71,100.0,90.0
+andrewsykim,kim.andrewsy@gmail.com,andrewsykim,andrew@wattpad.com,100.0,66.67,90.0
+Andrew Sy Kim,kiman@vmware.com,Andrew Kim,kiman@vmware.com,86.96,100.0,90.87
+Shukun,song.shukun@fujitsu.com,sshukun,song.shukun@fujitsu.com,92.31,100.0,94.62
+Krishnakumar R(KK),29471693+kkmsft@users.noreply.github.com,Krishnakumar R,29471693+kkmsft@users.noreply.github.com,93.33,100.0,95.33
+Paul Morie,pmorie@redhat.com,Paul Morie,pmorie@gmail.com,100.0,100.0,100.0
+louisgong,louisssgong@tencent.com,louisssgong,louisssgong@tencent.com,90.0,100.0,93.0
+Slava Semushin,slava.semushin@gmail.com,Slava Semushin,vsemushi@redhat.com,100.0,72.73,91.82
+clarklee92,clarklee1992@hotmail.com,ClarkLee,clarklee1992@hotmail.com,88.89,100.0,92.22
+Bai Jianfei,jfbai@hotmail.com,Jianfei Bai,jfbai@hotmail.com,100.0,100.0,100.0
+Vallery Lancey,vallerylancey@gmail.com,Vallery Lancey,vlancey@lyft.com,100.0,70.0,91.0
+Vallery Lancey,vallerylancey@gmail.com,Vallery Lancey,vallery@zeitgeistlabs.io,100.0,70.0,91.0
+Matt Liggett,mml@google.com,Matt Liggett,mml@users.noreply.github.com,100.0,100.0,100.0
+Arjun Naik,arjun@arjunnaik.in,Arjun Naik,arjun.rn@gmail.com,100.0,76.92,93.08
+Lucas Käldström,lucas@weave.works,Lucas Käldström,luxas@users.noreply.github.com,100.0,80.0,94.0
+Guinevere Saenger,guineveresaenger@github.com,guineveresaenger,guineveresaenger@github.com,96.97,100.0,97.88
+Rong Gao,gaoronggood@163.com,gaorong,gaoronggood@163.com,93.33,100.0,95.33
+Chuck Ha,chuckh@vmware.com,Chuck Ha,ha.chuck@gmail.com,100.0,71.43,91.43
+Xing Yang,xingyang105@gmail.com,Xing Yang,xing.yang@emc.com,100.0,80.0,94.0
+gab-satchi,gsatchithanantham@pivotal.io,Gab Satchi,gsatchithanantham@pivotal.io,90.0,100.0,93.0
+Enxebre,alberto.garcial@hotmail.com,enxebre,alberto.garcial@hotmail.com,100.0,100.0,100.0
+Guoliang Wang,iamwgliang@gmail.com,Wang Guoliang,iamwgliang@gmail.com,100.0,100.0,100.0
+Timothy St. Clair,stclairt@vmware.com,Timothy St. Clair,tstclair@redhat.com,100.0,87.5,96.25
+Connor Doyle,connor@quantap.com,Connor Doyle,connor.p.d@gmail.com,100.0,75.0,92.5
+Connor Doyle,connor@quantap.com,Connor Doyle,connor@mesosphere.io,100.0,100.0,100.0
+Paulo Gomes,paulo.gomes.uk@gmail.com,Paulo Gomes,Paulo.Gomes.uk@gmail.com,100.0,100.0,100.0
+Filipe Brandenburger,filbranden@gmail.com,Filipe Brandenburger,filbranden@google.com,100.0,100.0,100.0
+Alexander Kanevskiy,alexander.kanevskiy@intel.com,Alexander D. Kanevskiy,alexander.kanevskiy@intel.com,92.68,100.0,94.88
+Chris Hoge,chris@openstack.org,Chris Hager,chris@linuxuser.at,85.71,100.0,90.0
+Robert Bailey,robertbailey@google.com,Robert Bailey,roberthbailey@users.noreply.github.com,100.0,96.0,98.8
+Cao Shufeng,caosf.fnst@cn.fujitsu.com,CaoShufeng,caosf.fnst@cn.fujitsu.com,95.24,100.0,96.67
+Lee Cattarin,lecattar@microsoft.com,Lee Cattarin,lee.cattarin@gmail.com,100.0,80.0,94.0
+Jiatong Wang,wangjiatong@vmware.com,Jiatong Wang,wjiatong@vmware.com,100.0,84.21,95.26
+alan,zg.zhu@daocloud.io,Alan,zg.zhu@daocloud.io,100.0,100.0,100.0
+zhengjiajin,zhengjiajin2016@gmail.com,zhengjiajin,zhengjiajin@caicloud.io,100.0,84.62,95.38
+Ajat Prabha,ajatprabha@users.noreply.github.com,ajatprabha,ajat.prabha.leo@gmail.com,95.24,80.0,90.67
+Michael Vorburger,vorburger@google.com,Michael Vorburger ⛑️,vorburger@google.com,100.0,100.0,100.0
+Haiyan Meng,haiyanmeng@google.com,haiyanmeng,haiyanmeng@google.com,95.24,100.0,96.67
+Andy Goldstein,goldsteina@vmware.com,Andy Goldstein,agoldste@redhat.com,100.0,77.78,93.33
+Marko Lukša,marko.luksa@gmail.com,Marko Luksa,marko.luksa@gmail.com,100.0,100.0,100.0
+stewart-yu,yuchuanjian@huawei.com,Stewart-YU,yuchuanjian@huawei.com,100.0,100.0,100.0
+JulienBalestra,julien.balestra@datadoghq.com,JulienBalestra,julien.balestra@gmail.com,100.0,100.0,100.0
+Steve Coffman,StevenACoffman@users.noreply.github.com,Steve Coffman,steve.coffman@ithaka.org,100.0,88.89,96.67
+Bobby (Babak) Salamat,bsalamat@google.com,"Babak ""Bobby"" Salamat",bsalamat@google.com,100.0,100.0,100.0
+Dan Kohn,dan@dankohn.com,Dan Kohn,dan@linuxfoundation.org,100.0,100.0,100.0
+juanvallejo,juan.vallejo.12@cnu.edu,juanvallejo,jvallejo@redhat.com,100.0,69.57,90.87
+Steve Sloka,slokas@vmware.com,Steve Sloka,slokas@upmc.edu,100.0,100.0,100.0
+Steve Sloka,steve@stevesloka.com,Steve Sloka,steves@heptio.com,100.0,90.91,97.27
+Alexander Brand,alexbrand09@gmail.com,Alexander Brand,abrand@apprenda.com,100.0,70.59,91.18
+juanvallejo,jvallejo@redhat.com,Juan Vallejo,jvallejo@redhat.com,95.65,100.0,96.96
+Joshua Horwitz,josh.horwitz@oracle.com,Josh Horwitz,josh.horwitz@oracle.com,92.31,100.0,94.62
+Phillip Wittrock,pwittroc+github@google.com,Phillip Wittrock,pwittrock@users.noreply.github.com,100.0,69.57,90.87
+Ravi Gadde,ravi@pensando.io,Ravi Gadde,ravi@datawisesystems.com,100.0,100.0,100.0
+Weibin Lin,linweibin1@huawei.com,linweibin,linweibin1@huawei.com,94.74,100.0,96.32
+Michalis Kargakis,kargakis@protonmail.ch,Michalis Kargakis,mkargaki@redhat.com,100.0,87.5,96.25
+jay vyas,jay@apache.org,Jay Vyas,jay@apache.org,100.0,100.0,100.0
+jay vyas,jay@apache.org,jayvyas,jay@apache.org,93.33,100.0,95.33
+Chao Wang,wangchao.fnst@cn.fujitsu.com,chao wang,wangchao.fnst@cn.fujitsu.com,100.0,100.0,100.0
+Maciej Pytel,maciekpytel@google.com,MaciekPytel,maciekpytel@google.com,86.96,100.0,90.87
+Antonio Murdaca,runcom@redhat.com,Antonio Murdaca,runcom@linux.com,100.0,100.0,100.0
+Jess Frazelle,acidburn@microsoft.com,Jess Frazelle,acidburn@google.com,100.0,100.0,100.0
+Eric Chiang,eric.chiang.m@gmail.com,Eric Chiang,eric.chiang@coreos.com,100.0,91.67,97.5
+Richard Brown,rbrownccb@opensuse.org,Richard Brown,RBrownCCB@opensuse.org,100.0,100.0,100.0
+FengyunPan2,pan_feng_yun@163.com,FengyunPan,pan_feng_yun@163.com,95.24,100.0,96.67
+Vishnu kannan,vishnuk@google.com,Vishnu Kannan,vishnuk@google.com,100.0,100.0,100.0
+Jeff Lowdermilk,jeffml@google.com,Jeff Lowdermilk,tiro.jeff.ml@gmail.com,100.0,66.67,90.0
+rongzhang,rongzhang@alauda.io,Rong Zhang,rongzhang@alauda.io,94.74,100.0,96.32
+rongzhang,rongzhang@alauda.io,rong.zhang,rong.zhang@easystack.cn,94.74,94.74,94.74
+NickrenREN,renyuquan@caicloud.io,NickrenREN,renyuquan1@163.com,100.0,94.74,98.42
+linyouchong,lin.youchong@zte.com.cn,linyouchong,linyouchong@gmail.com,100.0,95.65,98.7
+Raffaele Di Fazio,raffaele.difazio@blacklane.com,Raffaele Di Fazio,raffaele.di.fazio@zalando.de,100.0,96.97,99.09
+xiangpengzhao,zhao.xiangpeng@zte.com.cn,Xiangpeng Zhao,zhao.xiangpeng@zte.com.cn,96.3,100.0,97.41
+Nick Sardo,nicksardo@google.com,Nick Sardo,nicksardo@users.noreply.github.com,100.0,100.0,100.0
+Rong Zhang,rongzhang@alauda.io,rong.zhang,rong.zhang@easystack.cn,90.0,94.74,91.42
+caleb miles,848394+calebamiles@users.noreply.github.com,caleb miles,calebmiles@google.com,100.0,74.07,92.22
+caleb miles,848394+calebamiles@users.noreply.github.com,Caleb Miles,calebmiles@cmoneymiles.c.googlers.com,100.0,74.07,92.22
+caleb miles,848394+calebamiles@users.noreply.github.com,caleb miles,calebamiles@users.noreply.github.com,100.0,78.57,93.57
+caleb miles,848394+calebamiles@users.noreply.github.com,caleb miles,caleb.miles@coreos.com,100.0,71.43,91.43
+caleb miles,calebmiles@google.com,Caleb Miles,calebmiles@cmoneymiles.c.googlers.com,100.0,100.0,100.0
+caleb miles,calebmiles@google.com,caleb miles,calebamiles@users.noreply.github.com,100.0,95.24,98.57
+caleb miles,calebmiles@google.com,caleb miles,caleb.miles@coreos.com,100.0,95.24,98.57
+Brendan Burns,bburns@google.com,brendandburns,bburns@google.com,92.31,100.0,94.62
+Josh Horwitz,josh.horwitz@oracle.com,Josh Horwitz,horwitzja@gmail.com,100.0,66.67,90.0
+Alexander Staubo,alex@purefiction.net,Alexander Staubo,alex@bengler.no,100.0,100.0,100.0
+Luis Pabón,lpabon@users.noreply.github.com,Luis Pabón,luis.pabon@coreos.com,100.0,75.0,92.5
+Marcin Wielgus,mwielgus@google.com,Marcin Wielgus,mwielgus@mwusa.hot.corp.google.com,100.0,100.0,100.0
+nikhiljindal,nikhiljindal@google.com,nikhiljindal,nikhiljindal18@gmail.com,100.0,92.31,97.69
+Ferran Rodenas,frodenas@gmail.com,Ferran Rodenas,rodenasf@vmware.com,100.0,87.5,96.25
+Harry Zhang,harryz@hyper.sh,Harry Zhang,harryzhang@zju.edu.cn,100.0,75.0,92.5
+Harry Zhang,harryz@hyper.sh,harry zhang,harryz@hyper.sh,100.0,100.0,100.0
+Harry Zhang,harryz@hyper.sh,harry zhang,harryzhang@zju.edu.cn,100.0,75.0,92.5
+Hongchao Deng,hongchaodeng1@gmail.com,Hongchao Deng,hongchaodeng@users.noreply.github.com,100.0,96.0,98.8
+Marek Grabowski,gmarek@google.com,Marek Grabowski,grmarek@gmail.com,100.0,92.31,97.69
+Eric Tune,etune@google.com,erictune,etune@google.com,94.12,100.0,95.88
+Shijun Qin,qinshijun16@otcaix.iscas.ac.cn,Shijun Qin,qinshijun16@mails.ucas.ac.cn,100.0,100.0,100.0
+spxtr,spxtr@google.com,spxtr,spextear@gmail.com,100.0,76.92,93.08
+alex,alextc@google.com,alex,alex@cloudware.it,100.0,80.0,94.0
+Johannes Scheuermann,johannes.scheuermann@inovex.de,Johannes Scheuermann,joh.scheuer@gmail.com,100.0,70.97,91.29
+Edmund Rhudy,erhudy@bloomberg.net,Edmund Rhudy,erhudy@users.noreply.github.com,100.0,100.0,100.0
+Edmund Rhudy,erhudy@bloomberg.net,Edmund Rhudy,edmundrhudy@icloud.com,100.0,70.59,91.18
+cedric lamoriniere,cedric.lamoriniere@amadeus.com,Cedric Lamoriniere,cedric.lamoriniere@gmail.com,100.0,100.0,100.0
+Wu Qiang,qiang.q.wu@oracle.com,Wu Qiang,qiang.q.wu@oralce.com,100.0,100.0,100.0
+Michalis Kargakis,mkargaki@redhat.com,Michail Kargakis,mkargaki@redhat.com,90.91,100.0,93.64
+Paulo Pires,pjpires@gmail.com,Paulo Pires,pires@apprenda.com,100.0,83.33,95.0
+rob boll,robert.boll@datadoghq.com,rob boll,robertcboll@gmail.com,100.0,90.91,97.27
+Caleb Miles,calebmiles@cmoneymiles.c.googlers.com,caleb miles,calebamiles@users.noreply.github.com,100.0,95.24,98.57
+Caleb Miles,calebmiles@cmoneymiles.c.googlers.com,caleb miles,caleb.miles@coreos.com,100.0,95.24,98.57
+Connor Doyle,connor.p.doyle@intel.com,Connor Doyle,connor.p.d@gmail.com,100.0,83.33,95.0
+Lukasz Zajaczkowski,lukasz.zajaczkowski@ts.fujitsu.com,Lukasz Zajaczkowski,Lukasz.Zajaczkowski@ts.fujitsu.com,100.0,100.0,100.0
+Isaac Hollander McCreery,ihmccreery@google.com,Isaac Hollander McCreery,ihmccreery@users.noreply.github.com,100.0,100.0,100.0
+Isaac Hollander McCreery,ihmccreery@google.com,Isaac Hollander McCreery,ihmccreery@gmail.com,100.0,100.0,100.0
+Yuxiang Zhu,vfreex+git@gmail.com,Yuxiang Zhu,vfreex@gmail.com,100.0,80.0,94.0
+xialonglee,li.xialong@zte.com.cn,xialong.lee,li.xialong@zte.com.cn,95.24,100.0,96.67
+James Ravn,james@r-vn.org,James Ravn,james.ravn@sky.uk,100.0,66.67,90.0
+Shiyang Wang,shiywang@redhat.com,Shiyang Wang,shiyang.wang@outlook.com,100.0,80.0,94.0
+supereagle,yuejinming@caicloud.io,supereagle,yuejinming@wanda.cn,100.0,100.0,100.0
+Marcin Maciaszczyk,marcin.maciaszczyk@ts.fujitsu.com,Marcin Maciaszczyk,maciaszczykm@users.noreply.github.com,100.0,73.33,92.0
+Marcin Maciaszczyk,marcin.maciaszczyk@ts.fujitsu.com,Marcin Maciaszczyk,Marcin.Maciaszczyk@ts.fujitsu.com,100.0,100.0,100.0
+Connor Doyle,connor.p.d@gmail.com,Connor Doyle,connor@mesosphere.io,100.0,75.0,92.5
+jeff vance,jeff.h.vance@gmail.com,Jeff Vance,jeff.h.vance@gmail.com,100.0,100.0,100.0
+jeff vance,jeff.h.vance@gmail.com,Jeff Vance,jvance@redhat.com,100.0,66.67,90.0
+Yuhao Fang,fangyuhao@gmail.com,fangyuhao,fangyuhao@xiaomi.com,94.74,100.0,96.32
+Yuhao Fang,fangyuhao@gmail.com,fangyuhao [方宇浩],fangyuhao@gmail.com,94.74,100.0,96.32
+Cole Mickens,cole.mickens@coreos.com,Cole Mickens,cole.mickens@gmail.com,100.0,100.0,100.0
+chenxingyu,wizard_cxy@hotmail.com,Xingyu Chen,wizard_cxy@hotmail.com,95.24,100.0,96.67
+Bartlomiej Antoniak,antoniaklja@gmail.com,Bartłomiej Antoniak,antoniaklja@gmail.com,97.3,100.0,98.11
+Saksham Sharma,saksham0808@gmail.com,Saksham Sharma,sakshams@google.com,100.0,73.68,92.11
+Wei Wei,weiwei@qiniu.com,Wei Wei,weiwei.inf@gmail.com,100.0,75.0,92.5
+Rajat Chopra,rchopra@redhat.com,Rajat Chopra,rajatchopra@gmail.com,100.0,77.78,93.33
+Henrik Schmidt,henrik@loodse.com,Henrik Schmidt,henrik@henrik-schmidt.de,100.0,100.0,100.0
+Malcolm Lee,fengxueyu35@126.com,malcolm lee,fengxueyu35@126.com,100.0,100.0,100.0
+André Cruz,andre@brpx.com,André Cruz,andre@cabine.org,100.0,100.0,100.0
+Euan Kemp,euank@euank.com,Euan Kemp,euan.kemp@coreos.com,100.0,71.43,91.43
+Euan Kemp,euank@euank.com,Euan Kemp,euank@coreos.com,100.0,100.0,100.0
+shashidharatd,shashidhara.td@huawei.com,Shashidhara T D,shashidhara.td@huawei.com,85.71,100.0,90.0
+Erik McClenney,erikmcc@google.com,Erik McClenney,erikmcc@users.noreply.github.com,100.0,100.0,100.0
+Chao Xu,xuchao@silkubi.fra.corp.google.com,Chao Xu,caesarxuchao@users.noreply.github.com,100.0,66.67,90.0
+Adam Worrall,abw@google.com,Adam Worrall,abw@abw-k8s.mtv.corp.google.com,100.0,100.0,100.0
+jianhuiz,jianhui.zhou@huawei.com,jianhuiz,jianhui@outlook.com,100.0,73.68,92.11
+caiyixiang,Cai.yixiang@zte.com.cn,caiyixiang,cai.yixiang@zte.com.cn,100.0,100.0,100.0
+Joe Finney,spxtr@google.com,Joe Finney,spxtr@users.noreply.github.com,100.0,100.0,100.0
+Hitoshi Mitake,mitake.hitoshi@lab.ntt.co.jp,Hitoshi Mitake,mitake.hitoshi@gmail.com,100.0,100.0,100.0
+Edmund Rhudy,erhudy@users.noreply.github.com,Edmund Rhudy,edmundrhudy@icloud.com,100.0,70.59,91.18
+Chenxingyu,chenxingyu@qiniu.com,chenxingyu,chenxingyu@qiniu.com,100.0,100.0,100.0
+Tim(Xiaoyu) Zhang,zhang.xiaoyu33@zte.com.cn,Xiaoyu Zhang,zhang.xiaoyu33@zte.com.cn,88.89,100.0,92.22
+Ricky Pai,rickyp999+github@gmail.com,Ricky Pai,rickyp999@gmail.com,100.0,75.0,92.5
+Andy Lindeman,andy@lindeman.io,Andy Lindeman,andy@operable.io,100.0,100.0,100.0
+Jorge O. Castro,jorge@heptio.com,Jorge O. Castro,jorge@ubuntu.com,100.0,100.0,100.0
+fangyuhao,fangyuhao@xiaomi.com,fangyuhao [方宇浩],fangyuhao@gmail.com,100.0,100.0,100.0
+caleb miles,calebamiles@users.noreply.github.com,caleb miles,caleb.miles@coreos.com,100.0,90.91,97.27
+Quinton Hoole,quinton.hoole@huawei.com,Quinton Hoole,quinton@google.com,100.0,70.0,91.0
+Quinton Hoole,quinton.hoole@huawei.com,Quinton Hoole,quinton@quinton-macbookpro.roam.corp.google.com,100.0,70.0,91.0
+Deyuan Deng,deyuan@caicloud.io,Deyuan Deng,deyuan.deng@gmail.com,100.0,70.59,91.18
+Deyuan Deng,deyuan@caicloud.io,Deyuan Deng,deyuan@google.com,100.0,100.0,100.0
+Deyuan Deng,deyuan@caicloud.io,Deyuan Deng,Deyuan.Deng@gmail.com,100.0,70.59,91.18
+Nathan Button,nbutton@ancestry.com,Nathan Button,nathan.button@gmail.com,100.0,70.0,91.0
+Euan Kemp,euan.kemp@coreos.com,Euan Kemp,euank@coreos.com,100.0,71.43,91.43
+Dmitry Shulyak,yashulyak@gmail.com,Dmitry Shulyak,dshulyak@mirantis.com,100.0,82.35,94.71
+David Oppenheimer,davidopp@google.com,David Oppenheimer,davidopp@gmail.com,100.0,100.0,100.0
+Jerzy Szczepkowski,jsz@google.com,Jerzy Szczepkowski,jsz@jsz-desk2.waw.corp.google.com,100.0,100.0,100.0
+Federico Gimenez,fgimenez@canonical.com,Federico Gimenez,fgimenez@coit.es,100.0,100.0,100.0
+Madhusudan.C.S,madhusudancs@google.com,Madhusudan.C.S,madhusudancs@gmail.com,100.0,100.0,100.0
+Deyuan Deng,deyuan.deng@gmail.com,Deyuan Deng,deyuan@google.com,100.0,70.59,91.18
+Deyuan Deng,deyuan.deng@gmail.com,Deyuan Deng,Deyuan.Deng@gmail.com,100.0,100.0,100.0
+Ricky Pai,ricky.pai@airbnb.com,Ricky Pai,rickyp999@gmail.com,100.0,66.67,90.0
+Giri Kuncoro,gkuncoro@vmware.com,Giri Kuncoro,girikuncoro@users.noreply.github.com,100.0,84.21,95.26
+Stanisław Szydło,stanislaw.szydlo@intel.com,Stanislaw Szydlo,stanislaw.szydlo@intel.com,93.33,100.0,95.33
+Salvatore Dario Minonne,salvatore-dario.minonne@amadeus.com,Salvatore Dario MINONNE,salvatore-dario.minonne@amadeus.com,100.0,100.0,100.0
+yupengzte,yu.peng36@zte.com.cn,YuPengZTE,yu.peng36@zte.com.cn,100.0,100.0,100.0
+Marcin Maciaszczyk,maciaszczykm@users.noreply.github.com,Marcin Maciaszczyk,Marcin.Maciaszczyk@ts.fujitsu.com,100.0,73.33,92.0
+carlory,fanbaofa@gmail.com,Carlory,fanbaofa@gmail.com,100.0,100.0,100.0
+Derek McQuay,derekmcquay@gmail.com,derek mcquay,derekmcquay@gmail.com,100.0,100.0,100.0
+Derek McQuay,derekmcquay@gmail.com,Derek McQuay,dmcquay@apprenda.com,100.0,77.78,93.33
+Jeff Vance,jeff.h.vance@gmail.com,Jeff Vance,jvance@redhat.com,100.0,66.67,90.0
+Aaron Levy,aaronjlevy@gmail.com,Aaron Levy,aaron.levy@coreos.com,100.0,90.0,97.0
+derek mcquay,derekmcquay@gmail.com,Derek McQuay,dmcquay@apprenda.com,100.0,77.78,93.33
+Matt Bruzek,mbruzek@gmail.com,Matt Bruzek,matthew.bruzek@canonical.com,100.0,66.67,90.0
+Piotr Skamruk,pskamruk@mirantis.com,Piotr Skamruk,piotr.skamruk@gmail.com,100.0,76.19,92.86
+joseph-lanoux,joseph.lanoux@hpe.com,Joseph Lanoux,joseph.lanoux@hpe.com,92.31,100.0,94.62
+Vojtech Vitek,vojtech.vitek@pressly.com,Vojtech Vitek,vojtech.vitek@gmail.com,100.0,100.0,100.0
+lvjiangzhao,lvjiangzhao@jd.com,lvjiangzhao,jiangzhao_l@hotmail.com,100.0,81.82,94.55
+Tony Li,tony.li@nytimes.com,Tony Li,tonyli.lives@gmail.com,100.0,73.68,92.11
+bprashanth,beeps@google.com,Prashanth B,beeps@google.com,95.24,100.0,96.67
+Jess Frazelle,jessfraz@users.noreply.github.com,Jess Frazelle,jessfraz@google.com,100.0,100.0,100.0
+Quinton Hoole,quinton@google.com,Quinton Hoole,quinton@quinton-macbookpro.roam.corp.google.com,100.0,100.0,100.0
+Jitendra Bhurat,jbhurat@apprenda.com,Jitendra Bhurat,jbhurat@gmail.com,100.0,100.0,100.0
+Dr. Stefan Schimanski,sttts@redhat.com,Dr. Stefan Schimanski,sttts@mesosphere.io,100.0,100.0,100.0
+Xiang Li,xiangli.cs@gmail.com,Xiang Li,xiang.li@coreos.com,100.0,77.78,93.33
+Elson Rodriguez,elson.rodriguez@gmail.com,Elson O Rodriguez,elson.o.rodriguez@intel.com,93.75,93.75,93.75
+Elson Rodriguez,elson.rodriguez@gmail.com,elsonrodriguez,elson.rodriguez@gmail.com,96.55,100.0,97.59
+Magnus Kulke,mkulke@gmail.com,Magnus Kulke,magnus.kulke@thinkstep.com,100.0,66.67,90.0
+Fabio Yeon,fabioy@google.com,Fabio Yeon,fabioy@users.noreply.github.com,100.0,100.0,100.0
+Fabio Yeon,fabioy@google.com,Fabio Yeon,fabioy@fabioy-macbookpro2.roam.corp.google.com,100.0,100.0,100.0
+Fabio Yeon,fabioy@users.noreply.github.com,Fabio Yeon,fabioy@fabioy-macbookpro2.roam.corp.google.com,100.0,100.0,100.0
+Davide Agnello,davideagnello@gmail.com,Davide Agnello,dagnello@hp.com,100.0,76.19,92.86
+davidwalter0,walter.david@gmail.com,David Walter,walter.david@gmail.com,91.67,100.0,94.17
+Jędrzej Nowak,pigmej@gmail.com,Jedrzej Nowak,pigmej@gmail.com,100.0,100.0,100.0
+Ke Zhang,zhang.ke106@zte.com.cn,Ke Zhang,zhangke909@qq.com,100.0,76.19,92.86
+Harry Zhang,harryzhang@zju.edu.cn,harry zhang,harryz@hyper.sh,100.0,75.0,92.5
+Harry Zhang,harryzhang@zju.edu.cn,harry zhang,harryzhang@zju.edu.cn,100.0,100.0,100.0
+Hai Huang,haih@us.ibm.com,HAI HUANG,haih@us.ibm.com,100.0,100.0,100.0
+harry zhang,harryz@hyper.sh,harry zhang,harryzhang@zju.edu.cn,100.0,75.0,92.5
+Thom May,thom@may.lt,Thom May,thom_may@external.mckinsey.com,100.0,66.67,90.0
+mehdy,mehdy@users.noreply.github.com,amehdy,mehdy@google.com,90.91,100.0,93.64
+Jeff Mendoza,jeffmendoza@google.com,Jeff Mendoza,jeffmendoza@live.com,100.0,100.0,100.0
+Patryk Duński,patryk.dunski@kende.pl,Patryk Dunski,patryk.dunski@kende.pl,100.0,100.0,100.0
+Andrey Kurilin,akurilin@mirantis.com,Andrey Kurilin,andr.kurilin@gmail.com,100.0,80.0,94.0
+Jay Vyas,jay@apache.org,jayvyas,jay@apache.org,93.33,100.0,95.33
+Kenneth D. Evensen,kevensen@redhat.com,Kenneth Evensen,kevensen@redhat.com,90.91,100.0,93.64
+goltermann,goltermann@google.com,goltermann,goltermann@users.noreply.github.com,100.0,100.0,100.0
+pwittrock,pwittroc@google.com,pwittrock,phil.wittrock@gmail.com,100.0,76.19,92.86
+Andrew Williams,awilliams@intoxitrack.net,Andrew Williams,williams.andrew@gmail.com,100.0,66.67,90.0
+Elson O Rodriguez,elson.o.rodriguez@intel.com,elsonrodriguez,elson.rodriguez@gmail.com,90.32,93.75,91.35
+huangyuqi,huangyuqi@huawei.com,yuqi huang,huangyuqi@huawei.com,94.74,100.0,96.32
+huangyuqi,huangyuqi@huawei.com,yuqi huang,huangyuqi@users.noreply.github.com,94.74,100.0,96.32
+Muhammed Uluyol,uluyol0@gmail.com,Muhammed Uluyol,uluyol@google.com,100.0,92.31,97.69
+Amy Unruh,amyu@google.com,Amy Unruh,amy@infosleuth.net,100.0,85.71,95.71
+feihujiang,jiangfeihu@huawei.com,feihjiang,jiangfeihu@huawei.com,94.74,100.0,96.32
+kargakis,mkargaki@redhat.com,kargakis,kargakis@users.noreply.github.com,100.0,87.5,96.25
+kargakis,mkargaki@redhat.com,kargakis,michaliskargakis@gmail.com,100.0,66.67,90.0
+Michael Schmidt,michael02.schmidt@sap.com,Michael Schmidt,michael.j.schmidt@gmail.com,100.0,88.24,96.47
+Nikhil Jindal,nikhiljindal@google.com,Nikhil Jindal,nikhiljindal18@gmail.com,100.0,92.31,97.69
+Isaac Hollander McCreery,ihmccreery@users.noreply.github.com,Isaac Hollander McCreery,ihmccreery@gmail.com,100.0,100.0,100.0
+jhadvig,jhadvig@redhat.com,jhadvig,j.hadvig@gmail.com,100.0,93.33,98.0
+Karl Isenberg,karl@mesosphere.io,Karl Isenberg,karlkfi@yahoo.com,100.0,72.73,91.82
+Tamer Tas,tamertas@outlook.com,Tamer Tas,tmrts@users.noreply.github.com,100.0,76.92,93.08
+Derek Gonyeo,derek.gonyeo@coreos.com,Derek Gonyeo,dgonyeo@csh.rit.edu,100.0,73.68,92.11
+yuqi huang,huangyuqi@huawei.com,yuqi huang,huangyuqi@users.noreply.github.com,100.0,100.0,100.0
+resouer,resouer@163.com,resouer,resouer@gmail.com,100.0,100.0,100.0
+MikeJeffrey,MikeJeffrey@users.noreply.github.com,MikeJeffrey,mike.jeffrey@gmail.com,100.0,95.65,98.7
+Andrew M Bursavich,bursavich@google.com,Andrew M Bursavich,abursavich@gmail.com,100.0,94.74,98.42
+Sam Abed,samsabed@gmail.com,Sam Abed,samabed@gmail.com,100.0,93.33,98.0
+Ananya Kumar,skywalker94@gmail.com,AnanyaKumar,skywalker94@gmail.com,95.65,100.0,96.96
+Ryan Fowler,rwfowler@gmail.com,Ryan Fowler,ryan.fowler@singlewire.com,100.0,73.68,92.11
+kargakis,kargakis@users.noreply.github.com,kargakis,michaliskargakis@gmail.com,100.0,66.67,90.0
+Satnam Singh,satnam@google.com,Satnam Singh,satnam@raintown.org,100.0,100.0,100.0
+Satnam Singh,satnam@google.com,Satnam Singh,satnam6502@gmail.com,100.0,75.0,92.5
+Satnam Singh,satnam@raintown.org,Satnam Singh,satnam6502@gmail.com,100.0,75.0,92.5
+Hokutosei,jeanepaul@gmail.com,hokutosei,jeanepaul@gmail.com,100.0,100.0,100.0
+eddiesimeon,ej.simeon@gmail.com,Eddie Simeon,ej.simeon@gmail.com,95.65,100.0,96.96
+Gurvinder Singh,gurvindersinghdahiya@gmail.com,Gurvinder Singh,gurvinder.singh@uninett.no,100.0,80.0,94.0
+Marek Biskup,biskup@google.com,Marek Biskup,marekbiskup@users.noreply.github.com,100.0,70.59,91.18
+Jeff Bean,jeffreyrobertbean@gmail.com,Jeffrey Bean,jeffreyrobertbean@gmail.com,85.71,100.0,90.0
+wizard,wizard_cxy@hotmail.com,wizard,wizardcxy@126.com,100.0,94.74,98.42
+Deyuan Deng,deyuan@google.com,Deyuan Deng,Deyuan.Deng@gmail.com,100.0,70.59,91.18
+Maxwell Forbes,mbforbes@users.noreply.github.com,Maxwell Forbes,maxforbes@google.com,100.0,82.35,94.71
+Ryan Richard,ryan.richard@rackspace.com,Ryan Richard,ryanrichard07@gmail.com,100.0,88.0,96.4
+Kathrin Probst,kprobst@google.com,Kathrin Probst,kprobst@kprobst-macbookair2.roam.corp.google.com,100.0,100.0,100.0
+Piotr Komborski,piotr.komborski@gmail.com,Piotr Komborski,piotr.komborski@springer.com,100.0,100.0,100.0
+Ian Lewis,ianmlewis@gmail.com,Ian Lewis,IanMLewis@gmail.com,100.0,100.0,100.0
+Jeff Lowdermilk,tiro.jeff.ml@gmail.com,Jeff Lowdermlk,tiro.jeff.ml@gmail.com,96.55,100.0,97.59
+Sergey Evstifeev,sergey.evstifeev@klarna.com,Sergey Evstifeev,sergey.evstifeev@gmail.com,100.0,100.0,100.0
+Yuki Yugui Sonoda,yugui@google.com,Yuki Sonoda (Yugui),yugui@yugui.jp,100.0,100.0,100.0
+Justin Lindh,justinlindh@gmail.com,Justin Lindh,justin.lindh@webfilings.com,100.0,95.65,98.7
+Rafael Chacón,rafaelchacon@gmail.com,Rafael Chacon,rafaelchacon@gmail.com,100.0,100.0,100.0
+brendandburns,brendandburns@users.noreply.github.com,Brendan Burns,brendan.d.burns@gmail.com,92.31,92.86,92.47

@@ -1,0 +1,997 @@
+name1,email1,name2,email2,is_duplicate
+曾是然,srizym@gmail.com,胡玮文,huweiwen.hww@alibaba-inc.com,0
+曾是然,srizym@gmail.com,古九,gujiu.fsd@alibaba-inc.com,0
+曾是然,srizym@gmail.com,宋文杰,wenjie.song@daocloud.io,0
+曾是然,srizym@gmail.com,孔令飞,colin404@foxmail.com,0
+曾是然,srizym@gmail.com,肖旸,muma.378@163.com,0
+曾是然,srizym@gmail.com,帝俊,baofa.fan@daocloud.io,0
+曾是然,srizym@gmail.com,展望,zhanwang@inspur.com,0
+曾是然,srizym@gmail.com,张潇,xiaozhang0210@hotmail.com,0
+曾是然,srizym@gmail.com,包梦江,baomengjiang@caicloud.io,0
+胡玮文,huweiwen.hww@alibaba-inc.com,古九,gujiu.fsd@alibaba-inc.com,0
+胡玮文,huweiwen.hww@alibaba-inc.com,宋文杰,wenjie.song@daocloud.io,0
+胡玮文,huweiwen.hww@alibaba-inc.com,孔令飞,colin404@foxmail.com,0
+胡玮文,huweiwen.hww@alibaba-inc.com,肖旸,muma.378@163.com,0
+胡玮文,huweiwen.hww@alibaba-inc.com,帝俊,baofa.fan@daocloud.io,0
+胡玮文,huweiwen.hww@alibaba-inc.com,展望,zhanwang@inspur.com,0
+胡玮文,huweiwen.hww@alibaba-inc.com,张潇,xiaozhang0210@hotmail.com,0
+胡玮文,huweiwen.hww@alibaba-inc.com,包梦江,baomengjiang@caicloud.io,0
+古九,gujiu.fsd@alibaba-inc.com,宋文杰,wenjie.song@daocloud.io,0
+古九,gujiu.fsd@alibaba-inc.com,孔令飞,colin404@foxmail.com,0
+古九,gujiu.fsd@alibaba-inc.com,肖旸,muma.378@163.com,0
+古九,gujiu.fsd@alibaba-inc.com,帝俊,baofa.fan@daocloud.io,0
+古九,gujiu.fsd@alibaba-inc.com,展望,zhanwang@inspur.com,0
+古九,gujiu.fsd@alibaba-inc.com,张潇,xiaozhang0210@hotmail.com,0
+古九,gujiu.fsd@alibaba-inc.com,包梦江,baomengjiang@caicloud.io,0
+宋文杰,wenjie.song@daocloud.io,孔令飞,colin404@foxmail.com,0
+宋文杰,wenjie.song@daocloud.io,肖旸,muma.378@163.com,0
+宋文杰,wenjie.song@daocloud.io,帝俊,baofa.fan@daocloud.io,0
+宋文杰,wenjie.song@daocloud.io,展望,zhanwang@inspur.com,0
+宋文杰,wenjie.song@daocloud.io,张潇,xiaozhang0210@hotmail.com,0
+宋文杰,wenjie.song@daocloud.io,包梦江,baomengjiang@caicloud.io,0
+孔令飞,colin404@foxmail.com,肖旸,muma.378@163.com,0
+孔令飞,colin404@foxmail.com,帝俊,baofa.fan@daocloud.io,0
+孔令飞,colin404@foxmail.com,展望,zhanwang@inspur.com,0
+孔令飞,colin404@foxmail.com,张潇,xiaozhang0210@hotmail.com,0
+孔令飞,colin404@foxmail.com,包梦江,baomengjiang@caicloud.io,0
+肖旸,muma.378@163.com,帝俊,baofa.fan@daocloud.io,0
+肖旸,muma.378@163.com,展望,zhanwang@inspur.com,0
+肖旸,muma.378@163.com,张潇,xiaozhang0210@hotmail.com,0
+肖旸,muma.378@163.com,包梦江,baomengjiang@caicloud.io,0
+帝俊,baofa.fan@daocloud.io,展望,zhanwang@inspur.com,0
+帝俊,baofa.fan@daocloud.io,张潇,xiaozhang0210@hotmail.com,0
+帝俊,baofa.fan@daocloud.io,包梦江,baomengjiang@caicloud.io,0
+展望,zhanwang@inspur.com,张潇,xiaozhang0210@hotmail.com,0
+展望,zhanwang@inspur.com,包梦江,baomengjiang@caicloud.io,0
+张潇,xiaozhang0210@hotmail.com,包梦江,baomengjiang@caicloud.io,0
+10284789刁浩,diao.hao@zte.com.cn,刁浩 10284789,diao.hao@zte.com.cn,1
+Aaron Crickenberger,spiffxp@google.com,Aaron Crickenberger,spiffxp@gmail.com,1
+Aaron Levy,aaronjlevy@gmail.com,Aaron Levy,aaron.levy@coreos.com,1
+Abhijit Hoskeri,abhijithoskeri@gmail.com,Abhijit Hoskeri,hoskeri@google.com,1
+Abhishek Kr Srivastav,Abhishek.kr.srivastav@ibm.com,Abhishek Kumar Srivastav,Abhishek.kr.srivastav@ibm.com,1
+Abhishek Kr Srivastav,Abhishek.kr.srivastav@ibm.com,Abhishek Srivastav,Abhishek.kr.srivastav@ibm.com,1
+Abhishek Kumar Srivastav,Abhishek.kr.srivastav@ibm.com,Abhishek Srivastav,Abhishek.kr.srivastav@ibm.com,1
+Abrar Shivani,abrars@vmware.com,Abrar Shivani,shivania@vmware.com,1
+Achraf BOUAOUDA,bouaouda.achraf@gmail.com,ACHRAF BOUAOUDA,33317417+bouaouda-achraf@users.noreply.github.com,0
+Adam Worrall,abw@google.com,Adam Worrall,abw@abw-k8s.mtv.corp.google.com,1
+Adam Reese,adam@reese.io,Adam Dymitruk,adam@dymitruk.com,0
+Adam Reese,adam@reese.io,Adam Durana,adam@nine.net,0
+Adam Dymitruk,adam@dymitruk.com,Adam Durana,adam@nine.net,0
+Adelina Tuvenie,adelina-t@users.noreply.github.com,Adelina Tuvenie,adelinatuvenie@gmail.com,1
+adisky,adi.sky17@gmail.com,adisky,aditi.s@india.nec.com,1
+Aditya Dani,aditya@portworx.com,Aditya Patawari,aditya@adityapatawari.com,1
+Adolfo García Veytia (Puerco),puerco@chainguard.dev,Adolfo García Veytia (Puerco),adolfo.garcia@uservers.net,1
+Adrian Moisey,adrian@changeover.za.net,Adrian Cole,adrian@tetrate.io,1
+Adrian Moisey,adrian@changeover.za.net,Adrian Macneil,adrian@adrianmacneil.com,0
+adrianc,adrianc@nvidia.com,Adrian Chiris,adrianc@mellanox.com,0
+Adrian Cole,adrian@tetrate.io,Adrian Macneil,adrian@adrianmacneil.com,0
+ahg-g,ahg@google.com,ahg-g,40361897+ahg-g@users.noreply.github.com,1
+Ahmad Zolfaghari,ah8ad3@gmail.com,ahmad.zo,ah8ad3@gmail.com,1
+AHMED AGHADI,ahmedaghadi123@gmail.com,Ahmed Aghadi,ahmedaghadi123@gmail.com,0
+Ahmet Alp Balkan,ahmet@linkedin.com,Ahmet Alp Balkan,ahmetb@google.com,1
+aimuz,mr.imuz@gmail.com,aimuz,lizhen@wise2c.com,1
+Akanksha kumari,akankshakumari393@gmail.com,Akanksha Kumari,akankshakumari393@gmail.com,1
+Akanksha kumari,akankshakumari393@gmail.com,akankshakumari393,akankshakumari393@gmail.com,1
+Akanksha Kumari,akankshakumari393@gmail.com,akankshakumari393,akankshakumari393@gmail.com,1
+Akhil Mohan,akhilerm@gmail.com,Akhil Mohan,makhil@vmware.com,1
+Akhil Velagapudi,4@4khil.com,Akhil Velagapudi,avelagap@google.com,1
+Akihiro Suda,akihiro.suda.cz@hco.ntt.co.jp,Akihiro Suda,suda.akihiro@lab.ntt.co.jp,1
+alan,zg.zhu@daocloud.io,Alan,zg.zhu@daocloud.io,1
+Alay Patel,alayp@nvidia.com,Alay Patel,alay1431@gmail.com,1
+Aldo Culquicondor,acondor@google.com,Aldo Culquicondor,1299064+alculquicondor@users.noreply.github.com,1
+Alex,3620344+arekkusu@users.noreply.github.com,alex,alextc@google.com,0
+alex,alextc@google.com,alex,atcherniakhovski@gmail.com,1
+Alex Stundzia,alex@stundzia.com,Alex Chan,alex@alexwlchan.net,0
+Alex Stundzia,alex@stundzia.com,Alex Polvi,alex@polvi.net,0
+Alex Zielenski,zielenski@google.com,Alex Zielenski,alexzielenski@gmail.com,1
+Alex Robinson,alexdwanerobinson@gmail.com,Alex Robinson,arob@google.com,1
+Alex Chan,alex@alexwlchan.net,Alex Polvi,alex@polvi.net,0
+Alexander Constantinescu,alexander.constantinescu88@gmail.com,Alexander Constantinescu,aconstantinescu@confluent.io,1
+Alexander Zielenski,zielenski@google.com,Alexander Zielenski,351783+alexzielenski@users.noreply.github.com,1
+Alexandre Garnier,zigarn@gmail.com,Alexandre Garnier,zigarn@users.noreply.github.com,1
+Alexander Kanevskiy,alexander.kanevskiy@intel.com,Alexander D. Kanevskiy,alexander.kanevskiy@intel.com,1
+Alexander Brand,alexbrand09@gmail.com,Alexander Brand,abrand@apprenda.com,1
+Alexander Staubo,alex@purefiction.net,Alexander Staubo,alex@bengler.no,1
+Alexander Campbell,alexanderhcampbell@gmail.com,Alexander Campbell,campbellalex@google.com,1
+Alexander,abezzubov@nflabs.com,Alexander,iam.asm89@gmail.com,1
+Alexey Perevalov,alexey.perevalov@huawei.com,Alexey Perevalov,a.perevalov@samsung.com,1
+Alvaro Aleman,alvaroaleman@users.noreply.github.com,Alvaro Aleman,alv2412@googlemail.com,1
+Amim Knabben,amim.knabben@gmail.com,Amim Knabben,aknabben@vmware.com,1
+Amine Hilaly,hilalyamine@gmail.com,Amine,hilalyamine@gmail.com,1
+Amy Unruh,amyu@google.com,Amy Unruh,amy@infosleuth.net,1
+Ananya Kumar,skywalker94@gmail.com,AnanyaKumar,skywalker94@gmail.com,1
+Andrew Sy Kim,andrewsy@google.com,Andrew Sy Kim,kim.andrewsy@gmail.com,1
+Andrew Sy Kim,andrewsy@google.com,Andrew Kim,kiman@vmware.com,1
+Andrew Sy Kim,kim.andrewsy@gmail.com,andrewsykim,kim.andrewsy@gmail.com,1
+Andrey Smirnov,andrey.smirnov@talos-systems.com,Andrey Smirnov,smirnov.andrey@gmail.com,1
+Andrew Rynhard,andrew@rynhard.io,Andrew Lytvynov,andrew@gravitational.com,0
+Andrew Rynhard,andrew@rynhard.io,Andrew Rynhard,andrew@andrewrynhard.com,1
+Andrew Rynhard,andrew@rynhard.io,andrewsykim,andrew@wattpad.com,0
+Andrew Rynhard,andrew@rynhard.io,Andrew Seigner,andrew@sig.gy,0
+Andrew Rynhard,andrew@rynhard.io,Andrew Reed,andrew@areed.io,1
+Andrew Rynhard,andrew@rynhard.io,Andrew Johnstone,andrew@ajohnstone.com,0
+Andrew Keesler,akeesler@vmware.com,Andrew Keesler,ankeesler1@gmail.com,1
+André Bauer,monotek23@gmail.com,André Bauer,andre.bauer@kiwigrid.com,1
+Andrea Nodari,and.nodari@gmail.com,Andrea Nodari,anodari@pivotal.io,1
+Andrew Lytvynov,andrew@gravitational.com,Andrew Lytvynov,awly@google.com,1
+Andrew Lytvynov,andrew@gravitational.com,andrewsykim,andrew@wattpad.com,0
+Andrew Lytvynov,andrew@gravitational.com,Andrew Seigner,andrew@sig.gy,0
+Andrew Lytvynov,andrew@gravitational.com,Andrew Reed,andrew@areed.io,0
+Andrew Lytvynov,andrew@gravitational.com,Andrew Johnstone,andrew@ajohnstone.com,0
+andrewsykim,kim.andrewsy@gmail.com,Andrew Kim,kim.andrewsy@gmail.com,1
+andrewsykim,kim.andrewsy@gmail.com,andrewsykim,andrew@wattpad.com,1
+Andrew Kim,kiman@vmware.com,Andrew Kim,kim.andrewsy@gmail.com,1
+Andrew Garrett,andrew.garrett@getbraintree.com,Andrew Garrett,2rs2ts@users.noreply.github.com,1
+Andrew McDermott,amcdermo@redhat.com,Andrew McDermott,aim@frobware.com,1
+Andrew Z Allen,me@andrewzallen.com,Andrew Smith,me@andrewmichaelsmith.com,0
+André Cruz,andre@brpx.com,André Cruz,andre@cabine.org,1
+andrewsykim,andrew@wattpad.com,Andrew Seigner,andrew@sig.gy,0
+andrewsykim,andrew@wattpad.com,Andrew Reed,andrew@areed.io,0
+andrewsykim,andrew@wattpad.com,Andrew Johnstone,andrew@ajohnstone.com,0
+Andrew Seigner,andrew@sig.gy,Andrew Reed,andrew@areed.io,1
+Andrew Seigner,andrew@sig.gy,Andrew Johnstone,andrew@ajohnstone.com,0
+Andrew Reed,andrew@areed.io,Andrew Johnstone,andrew@ajohnstone.com,0
+Andrey Kurilin,akurilin@mirantis.com,Andrey Kurilin,andr.kurilin@gmail.com,1
+Andrew Williams,awilliams@intoxitrack.net,Andrew Williams,williams.andrew@gmail.com,1
+Andrew M Bursavich,bursavich@google.com,Andrew M Bursavich,abursavich@gmail.com,1
+Andy Goldstein,andy.goldstein@gmail.com,Andy Goldstein,andy.goldstein@redhat.com,1
+Andy Lindeman,andy@lindeman.io,Andy Spohn,Andy@AndySpohn.com,0
+Andy Lindeman,andy@lindeman.io,Andy Lindeman,andy@operable.io,1
+Anirudh Ramanathan,anirudh@foxish.me,Anirudh Ramanathan,ramanathana@google.com,1
+Anirudh Ramanathan,ramanathana@google.com,Anirudh,ramanathana@google.com,1
+Anish Ramasekar,anish.ramasekar@gmail.com,Anish Ramasekar,ramasekar@us.ibm.com,1
+Anish Shah,anishshah@google.com,Anish Shah,shah.anish07@gmail.com,1
+Ankit Gohil,gohilankit@gmail.com,Ankit Gohil,agohil@purestorage.com,1
+Antoine Pelisse,apelisse@gmail.com,Antoine Pelisse,apelisse@google.com,1
+Antoine Cotten,hello@acotten.com,Antoine Cotten,antoine@freeletics.com,1
+Antonio Ojea,aojea@google.com,Antonio Ojea,antonio.ojea.garcia@gmail.com,1
+Antonin Bas,antonin.bas@broadcom.com,Antonin Bas,abas@vmware.com,1
+Anton Protopopov,a.s.protopopov@gmail.com,Anton Protopopov,aspsk@isovalent.com,1
+Antonio Murdaca,runcom@redhat.com,Antonio Murdaca,runcom@linux.com,1
+Anton Khramov,anton@endocode.com,Anton Ilin,anton@ilin.dn.ua,0
+Aravindh Puthiyaparambil,aravindh.foss@pm.me,Aravindh Puthiyaparambil,aravindh@redhat.com,1
+Arda Güçlü,aguclu@redhat.com,Arda Güçlü,ardaguclu@gmail.com,1
+Arjun Naik,anaik@redhat.com,Arjun Naik,arjun@arjunnaik.in,1
+Arvinderpal Wander,awander@gmail.com,Arvinderpal,awander@apcera.com,1
+Ashley Gau,agau4779@gmail.com,Ashley Gau,gau@google.com,1
+Ashley Reese,ashley@victorianfox.com,Ashley,ashley@containership.io,0
+Avesh Agarwal,avesh.ncsu@gmail.com,Avesh Agarwal,avagarwa@redhat.com,1
+Avesh Agarwal,avesh.ncsu@gmail.com,Avesh,avesh.ncsu@gmail.com,1
+AxeZhan,kid071999@gmail.com,AxeZhan,1062602710@qq.com,1
+Balaji Subramaniam,balaji.subramaniam@intel.com,Balaji Subramaniam,balaji.warft@gmail.com,1
+Barni S,barni@google.com,Barni S,bharanidharan@me.com,1
+Beata Lach (Skiba),bskiba@google.com,Beata Skiba,bskiba@google.com,1
+Benjamin Elder,bentheelder@google.com,Benjamin Elder,ben.the.elder@gmail.com,1
+better88,better0332@163.com,better0332,better0332@163.com,1
+Billie Cleek,bhcleek@gmail.com,Billie Cleek,bcleek@digitalocean.com,1
+binacs,bin646891055@gmail.com,BinacsLee,bin646891055@gmail.com,1
+bindata-mockuser,sttts@redhat.com,bindata-mockuser,ronl@google.com,1
+Bob Killen,bobkillen@google.com,Bob Killen,bob.killen@linux.com,1
+Bobby (Babak) Salamat,bsalamat@google.com,Bobby Salamat,bsalamat@google.com,1
+Bouke van der Bijl,boukevanderbijl@gmail.com,Bouke van der Bijl,me@bou.ke,1
+Brandon Philips,brandon@ifup.org,Brandon Philips,brandon.philips@coreos.com,1
+Brendan Shephard,59072170+bshephar@users.noreply.github.com,Brendan Shephard,bshephar@bne-home.net,1
+Brendan Burns,bburns@microsoft.com,Brendan Burns,bburns@google.com,1
+Brendan Burns,bburns@microsoft.com,brendandburns,bburns@google.com,1
+brendandburns,bburns@google.com,brendandburns,brendandburns@users.noreply.github.com,1
+Brian Pursley,bpursley@cinlogic.com,brianpursley,bpursley@cinlogic.com,1
+Brian Topping,brian@coglative.com,Brian Rosner,brian@brosner.com,1
+Brian Topping,brian@coglative.com,Brian Morton,brian@xq3.net,0
+Brian Topping,brian@coglative.com,Brian Ketelsen,brian@xor.exchange,0
+Brian Topping,brian@coglative.com,Brian Dorsey,brian@dorseys.org,0
+Brian Grant,briangrant@google.com,Brian Grant,bgrant0607@users.noreply.github.com,1
+Brian Rosner,brian@brosner.com,Brian Morton,brian@xq3.net,0
+Brian Rosner,brian@brosner.com,Brian Ketelsen,brian@xor.exchange,0
+Brian Rosner,brian@brosner.com,Brian Dorsey,brian@dorseys.org,1
+Brian Morton,brian@xq3.net,Brian Ketelsen,brian@xor.exchange,0
+Brian Morton,brian@xq3.net,Brian Dorsey,brian@dorseys.org,0
+Brian Ketelsen,brian@xor.exchange,Brian Ketelsen,bketelsen@gmail.com,1
+Brian Ketelsen,brian@xor.exchange,Brian Dorsey,brian@dorseys.org,0
+Bryan Boreham,bjboreham@gmail.com,Bryan Boreham,bryan@weave.works,1
+caiweidong,wadecai@tencent.com,caiweidong,caiweidong@baidu.com,1
+caiyixiang,Cai.yixiang@zte.com.cn,caiyixiang,cai.yixiang@zte.com.cn,1
+Caleb Woodbine,calebwoodbine.public@gmail.com,Caleb Woodbine,caleb@ii.coop,1
+caleb miles,848394+calebamiles@users.noreply.github.com,caleb miles,calebmiles@google.com,1
+caleb miles,848394+calebamiles@users.noreply.github.com,Caleb Miles,calebmiles@cmoneymiles.c.googlers.com,1
+calvin,wen.chen@daocloud.io,calvin0327,wen.chen@daocloud.io,1
+calvinh,calvin@calvinhartwell.com,calvinhartwell,calvin@calvinhartwell.com,1
+Carlos Panato,ctadeu@gmail.com,Carlos Tadeu Panato Junior,ctadeu@gmail.com,1
+carlory,baofa.fan@daocloud.io,carlory,fanbaofa@gmail.com,1
+carlory,baofa.fan@daocloud.io,Carlory,fanbaofa@gmail.com,1
+Carlos Eduardo Arango Gutierrez,eduardoa@nvidia.com,Carlos Eduardo Arango Gutierrez,carangog@redhat.com,1
+Casey Davenport,davenport.cas@gmail.com,Casey Davenport,casey@tigera.io,1
+Casey Callendrello,cdc@redhat.com,Casey Callendrello,casey.callendrello@coreos.com,1
+CatherineF-dev,yinghongfang@google.com,Catherine Fang,yinghongfang@google.com,1
+Cecile Robert-Michon,cecilerobertm@gmail.com,Cecile Robert-Michon,cerobert@microsoft.com,1
+cedric lamoriniere,cedric.lamoriniere@amadeus.com,Cedric Lamoriniere,cedric.lamoriniere@gmail.com,1
+Cezary Zawadka,czawadka@google.com,Cezary Zawdka,czawadka@google.com,1
+Chakri Nelluri,nelcyguy@gmail.com,Chakravarthy Nelluri,nelcyguy@gmail.com,1
+changyaowei,changchang0905@gmail.com,changyaowei,156511344@qq.com,1
+Chao Xu,xuchao@google.com,Chao Xu,xuchao@silkubi.fra.corp.google.com,1
+Chao Wang,wangchao.fnst@cn.fujitsu.com,chao wang,wangchao.fnst@cn.fujitsu.com,1
+Chen Wang,chwan@redhat.com,Chen Wang,Chen.Wang1@ibm.com,1
+chenxingyu,wizard_cxy@hotmail.com,Chenxingyu,chenxingyu@qiniu.com,1
+chenxingyu,wizard_cxy@hotmail.com,chenxingyu,chenxingyu@qiniu.com,1
+choury,chouryzhou@tencent.com,choury,choury@users.noreply.github.com,1
+Christian Schlotter,christi.schlotter@gmail.com,Christian Schlotter,christian.schlotter@broadcom.com,1
+Chris Hoge,chris@openstack.org,Chris McClimans,chris@hippiehacker.org,0
+Chris Hoge,chris@openstack.org,Chris Hager,chris@linuxuser.at,1
+Chris Hoge,chris@openstack.org,Christopher Eck,chris@krypton.io,0
+Chris Hoge,chris@openstack.org,Chris Kühl,chris@kinvolk.io,0
+Chris Hoge,chris@openstack.org,Chris Hiestand,chris@oakleon.com,0
+Chris Hoge,chris@openstack.org,Christoph Hartmann,chris@lollyrock.com,0
+Chris Hoge,chris@openstack.org,Chris Moos,chris@tech9computers.com,0
+Chris McClimans,chris@hippiehacker.org,Chris Hager,chris@linuxuser.at,0
+Chris McClimans,chris@hippiehacker.org,Christopher Eck,chris@krypton.io,0
+Chris McClimans,chris@hippiehacker.org,Chris Kühl,chris@kinvolk.io,0
+Chris McClimans,chris@hippiehacker.org,Chris Hiestand,chris@oakleon.com,0
+Chris McClimans,chris@hippiehacker.org,Christoph Hartmann,chris@lollyrock.com,0
+Chris McClimans,chris@hippiehacker.org,Chris Moos,chris@tech9computers.com,0
+chrislovecnm,clove@cnmconsulting.net,Chris Love,clove@cnmconsulting.net,1
+Chris Hager,chris@linuxuser.at,Christopher Eck,chris@krypton.io,0
+Chris Hager,chris@linuxuser.at,Chris Kühl,chris@kinvolk.io,0
+Chris Hager,chris@linuxuser.at,Chris Hiestand,chris@oakleon.com,0
+Chris Hager,chris@linuxuser.at,Christoph Hartmann,chris@lollyrock.com,0
+Chris Hager,chris@linuxuser.at,Chris Moos,chris@tech9computers.com,0
+Chris Crane,03cranec@users.noreply.github.com,Chris Crane,christopher.m.crane@gmail.com,1
+Chris Batey and James Ravn,christopher.batey@sky.uk,Christopher Batey,christopher.batey@gmail.com,0
+Christopher Eck,chris@krypton.io,Chris Kühl,chris@kinvolk.io,0
+Christopher Eck,chris@krypton.io,Chris Hiestand,chris@oakleon.com,0
+Christopher Eck,chris@krypton.io,Christoph Hartmann,chris@lollyrock.com,0
+Christopher Eck,chris@krypton.io,Chris Moos,chris@tech9computers.com,0
+Chris Kühl,chris@kinvolk.io,Chris Hiestand,chris@oakleon.com,0
+Chris Kühl,chris@kinvolk.io,Christoph Hartmann,chris@lollyrock.com,0
+Chris Kühl,chris@kinvolk.io,Chris Moos,chris@tech9computers.com,0
+Christophe Augello,christophe@augello.be,Christophe Labouisse,christophe@labouisse.org,0
+Chris Hiestand,chris@oakleon.com,Christoph Hartmann,chris@lollyrock.com,1
+Chris Hiestand,chris@oakleon.com,Chris Moos,chris@tech9computers.com,0
+Chris Hiestand,chris@oakleon.com,Chris Hiestand,chrishiestand@gmail.com,1
+Christoph Hartmann,chris@lollyrock.com,Chris Moos,chris@tech9computers.com,0
+Chuck Ha,chuckh@vmware.com,Chuck Ha,ha.chuck@gmail.com,1
+Chun Chen,ramichen@tencent.com,Chun Chen,chenchun.feed@gmail.com,1
+Cici Huang,cicih@google.com,Cici Huang,8658046+cici37@users.noreply.github.com,1
+Ciprian Hacman,ciprian@hakman.dev,Ciprian Hacman,ciprian.hacman@sematext.com,1
+CJ Cullen,cjcullen@google.com,CJ Cullen,cjcullen888@gmail.com,1
+clarklee92,clarklee1992@hotmail.com,ClarkLee,clarklee1992@hotmail.com,1
+Claudiu Belu,cbelu@cloudbasesolutions.com,Claudiu Belu,1552519+claudiubelu@users.noreply.github.com,1
+Clayton Coleman,smarterclayton@gmail.com,Clayton Coleman,ccoleman@redhat.com,1
+Cole Mickens,cole.mickens@coreos.com,Cole Mickens,cole.mickens@gmail.com,1
+combk8s,mqliang.zju@gmail.com,combk8s,fangying068@gmail.com,1
+Cong Liu,conliu@google.com,Cong Liu,congliu.thu@gmail.com,1
+Connor Doyle,connor@quantap.com,Connor Doyle,connor.p.doyle@intel.com,1
+Craig Ingram,Cjingram@google.com,Craig Ingram,419708+cji@users.noreply.github.com,1
+Craig Jellick,craig@rancher.com,Craig Wickesser,craig@mindscratch.org,0
+Crazykev,crazykev@zju.edu.cn,Crazykev,zcq8989@gmail.com,1
+Cyclinder Kuo,kuocyclinder@gmail.com,cyclinder,kuocyclinder@gmail.com,1
+cyclinder,qifeng.guo@daocloud.io,cyclinder,kuocyclinder@gmail.com,1
+czm,czm1192198606@live.com,czm,zhongming.chang@daocloud.io,1
+Da K. Ma,klaus1982.cn@gmail.com,Da K. Ma,madaxa@cn.ibm.com,1
+Daman Arora,aroradaman@gmail.com,Daman,aroradaman@gmail.com,1
+Damon Wang,wangdekui@inspur.com,Damon Wang,wangdk@inspur.com,1
+Dan Gillespie,dan.gillespie@coreos.com,Dan Gillespie,dan@redspread.com,1
+Dan Kohn,dan@dankohn.com,Dan Kohn,dan@linuxfoundation.org,1
+Dan Lorenc,dlorenc@google.com,Dan Lorenc,lorenc.d@gmail.com,1
+Dan Mace,ironcladlou@gmail.com,Dan Mace,dmace@redhat.com,1
+Dan Osborne,djosborne10@gmail.com,Dan Osborne,daniel.osborne@metaswitch.com,1
+Dan Winship,danwinship@redhat.com,Dan Winship,danw@redhat.com,1
+Daniel Vega-Myhre,dvegamyhre@gmail.com,Daniel Vega-Myhre,105610547+danielvegamyhre@users.noreply.github.com,1
+Daniel Lipovetsky,dlipovetsky@d2iq.com,Daniel Lipovetsky,daniel.lipovetsky@gmail.com,1
+Danielle Lancashire,dani@builds.terrible.systems,Danielle,dani@builds.terrible.systems,1
+Daniel Gutowski,danielgutowski@google.com,Daniel Gutowski,gutowskydaniel@gmail.com,1
+danielqsj,qsj.daniel@gmail.com,Daniel (Shijun) Qian,qsj.daniel@gmail.com,0
+Daniel Holbach,daniel@weave.works,Daniel Lipovetsky,daniel@platform9.com,0
+Daniel Holbach,daniel@weave.works,Daniel Gonzalez,daniel@gonzalez-nothnagel.de,0
+Daniel Holbach,daniel@weave.works,Daniel Schonfeld,daniel@schonfeld.org,0
+Daniel (Shijun) Qian,qsj.daniel@gmail.com,Daniel Qian,chanjarster@gmail.com,1
+Daniel Lipovetsky,daniel@platform9.com,Daniel Gonzalez,daniel@gonzalez-nothnagel.de,0
+Daniel Lipovetsky,daniel@platform9.com,Daniel Schonfeld,daniel@schonfeld.org,0
+Daniel Gonzalez,daniel@gonzalez-nothnagel.de,Daniel Schonfeld,daniel@schonfeld.org,0
+Daniel Norberg,daniel.norberg@gmail.com,Daniel Norberg,dano@spotify.com,1
+Dave Chen,dave.jungler@gmail.com,Dave Chen,dave.chen@arm.com,1
+David Eads,deads@redhat.com,David Eads,deads2k@users.noreply.github.com,1
+David (Mengqi) Yu,mengqiyu@amazon.com,David Mengqi Yu,mengqiyu@amazon.com,1
+David Porter,david@porter.me,David Porter,david@davidporterapps.com,1
+David Porter,david@porter.me,David J. M. Karlsen,david@davidkarlsen.com,0
+David Porter,david@porter.me,David Haupt,david@tigera.io,0
+David Porter,david@porter.me,David Reynolds,david@alwaysmovefast.com,0
+David J. M. Karlsen,david@davidkarlsen.com,David Haupt,david@tigera.io,0
+David J. M. Karlsen,david@davidkarlsen.com,David Reynolds,david@alwaysmovefast.com,0
+David Xia,dxia@spotify.com,David Xia,davidxia@users.noreply.github.com,1
+David Haupt,david@tigera.io,David Reynolds,david@alwaysmovefast.com,0
+David Oppenheimer,davidopp@google.com,David Oppenheimer,davidopp@gmail.com,1
+David Oppenheimer,davidopp@google.com,davidopp,davidopp@gmail.com,0
+Davide Agnello,davideagnello@gmail.com,Davide Agnello,dagnello@hp.com,1
+davidwalter0,walter.david@gmail.com,David Walter,walter.david@gmail.com,1
+Deep Debroy,ddebroy@gmail.com,Deep Debroy,ddebroy@docker.com,1
+Dejan Zele Pejchev,pejcev.dejan@gmail.com,Dejan Pejchev,pejcev.dejan@gmail.com,1
+Denis Moiseev,1239415+lobziik@users.noreply.github.com,Denis Moiseev,dmoiseev@redhat.com,1
+DerekFrank,dfrankmn@protonmail.com,Derek Frank,dfrankmn@protonmail.com,1
+Derek Carr,decarr@redhat.com,derekwaynecarr,decarr@redhat.com,0
+Derek McQuay,derekmcquay@gmail.com,derek mcquay,derekmcquay@gmail.com,1
+Derek McQuay,derekmcquay@gmail.com,Derek McQuay,dmcquay@apprenda.com,1
+Derek Parker,derek.parker@coreos.com,Derek Parker,parkerderek86@gmail.com,1
+Derek Gonyeo,derek.gonyeo@coreos.com,Derek Gonyeo,dgonyeo@csh.rit.edu,1
+Deyuan Deng,deyuan@caicloud.io,Deyuan Deng,deyuan.deng@gmail.com,1
+Di Xu,stephenhsu90@gmail.com,Di Xu,xudifsd@gmail.com,1
+dingh,dinghaiyang@huawei.com,dinghaiyang,dinghaiyang@huawei.com,1
+DingShujie,dingshujie@huawei.com,DingShujie,DingShujie@huawei.com,1
+dingzhu lurong,1015542478@qq.com,Dingzhu Lurong,1015542478@qq.com,1
+Dipankar Das,dipankardas0115@gmail.com,Dipankar Das,65275144+dipankardas011@users.noreply.github.com,1
+Divyen Patel,divyenp@vmware.com,divyenpatel,divyenp@vmware.com,1
+Dixita,ndixita@google.com,Dixita Narang,ndixita@google.com,1
+dmathieu,42@dmathieu.com,dmathieu,dmathieu@salesforce.com,1
+Dmitry Shulyak,yashulyak@gmail.com,Dmitry Shulyak,dshulyak@mirantis.com,1
+dom4ha,dmarcinski@google.com,dom4ha,gmidon@gmail.com,1
+Dr. Stefan Schimanski,stefan.schimanski@gmail.com,Dr. Stefan Schimanski,sttts@redhat.com,1
+draveness,i@draveness.me,Draven,i@draveness.me,1
+Eddie Torres,torredil@amazon.com,Eddie,torredil@amazon.com,1
+eddiesimeon,ej.simeon@gmail.com,Eddie Simeon,ej.simeon@gmail.com,1
+Edmund Rhudy,erhudy@bloomberg.net,Edmund Rhudy,erhudy@users.noreply.github.com,1
+Edwin Hernandez,Edandres249@gmail.com,Edwinhr716,Edandres249@gmail.com,1
+Egor Guz,eguz@walmartlabs.com,Egor Guz,guz_egor@yahoo.com,1
+Elana Hashman,ehashman@apple.com,Elana Hashman,ehashman@redhat.com,1
+Elson Rodriguez,elson.rodriguez@gmail.com,Elson O Rodriguez,elson.o.rodriguez@intel.com,1
+Elson Rodriguez,elson.rodriguez@gmail.com,elsonrodriguez,elson.rodriguez@gmail.com,1
+Enxebre,alberto.garcial@hotmail.com,enxebre,alberto.garcial@hotmail.com,1
+Eric Lin,exlin@google.com,Eric Lin,linxiulei@gmail.com,1
+Eric Ernst,eric_ernst@apple.com,Eric Ernst,eric@amperecomputing.com,1
+Eric Mountain,eric.mountain@datadoghq.com,Eric Mountain,eric.mountain@amadeus.com,1
+Eric Ernst,eric@amperecomputing.com,Eric Wright,eric@discoposse.com,0
+Eric Chiang,eric.chiang.m@gmail.com,Eric Chiang,eric.chiang@coreos.com,1
+Erick Fejta,fejta@google.com,Erick Fejta,erick@fejta.com,1
+Erik McClenney,erikmcc@google.com,Erik McClenney,erikmcc@users.noreply.github.com,1
+Ernest Wong,ernwong@amazon.com,Ernest Wong,chuwon@microsoft.com,1
+Etienne Champetier,e.champetier@ateme.com,Etienne Champetier,champetier.etienne@gmail.com,1
+Euan Kemp,euank@euank.com,Euan Kemp,euan.kemp@coreos.com,1
+Fabian Fulga,ffulga@cloudbasesolutions.com,Fabian Fulga,63088740+fabi200123@users.noreply.github.com,1
+Fabio Yeon,fabioy@google.com,Fabio Yeon,fabioy@users.noreply.github.com,1
+Fabio Yeon,fabioy@google.com,fabioy,fabioy@google.com,1
+fabriziopandini,fpandini@vmware.com,fabriziopandini,fabrizio.pandini@gmail.com,1
+fangyuhao,fangyuhao@xiaomi.com,fangyuhao [方宇浩],fangyuhao@gmail.com,1
+Federico Gimenez,fgimenez@canonical.com,Federico Gimenez,fgimenez@coit.es,1
+FengyunPan2,pan_feng_yun@163.com,FengyunPan,pan_feng_yun@163.com,1
+FengyunPan,pan_feng_yun@163.com,FengyunPan,fengyun.pan@easystack.cn,1
+Ferran Rodenas,frodenas@gmail.com,Ferran Rodenas,rodenasf@vmware.com,1
+Filip Křepinský,atiratree@gmail.com,Filip Křepinský,fkrepins@redhat.com,1
+Filipe Xavier,felipe_life@live.com,Filipe Xavier,43504172+felipeagger@users.noreply.github.com,1
+Filipe Brandenburger,filbranden@gmail.com,Filipe Brandenburger,filbranden@google.com,1
+Gab Satch,gsatchithanantham@pivotal.io,Gab Satchi,gsatchithanantham@pivotal.io,1
+Gaurav Ghildiyal,gauravkg@google.com,Gaurav Kumar Ghildiyal,gauravkg@google.com,1
+Gautier Delorme,gautier.delorme@gmail.com,Gautier Delorme,gdelorme@apple.com,1
+George Kraft,cynerva@gmail.com,George Kraft,george.kraft@canonical.com,1
+Giri Kuncoro,gkuncoro@vmware.com,Giri Kuncoro,girikuncoro@users.noreply.github.com,1
+goltermann,goltermann@google.com,goltermann,goltermann@users.noreply.github.com,1
+Grant Griffiths,ggriffiths@purestorage.com,Grant Griffiths,grant@portworx.com,1
+Guillaume Le Biller,glebiller@expediagroup.com,Guillaume Le Biller,glebiller@Traveldoo.com,1
+Guinevere Saenger,guineveresaenger@github.com,guineveresaenger,guineveresaenger@github.com,1
+Gunjan Patel,patelgunjan5@gmail.com,gunjan5,patelgunjan5@gmail.com,1
+Gunju Kim,gunju.kim@navercorp.com,Gunju Kim,gjkim042@gmail.com,1
+guoguangwu,guoguangwug@gmail.com,guoguangwu,guoguangwu@magic-shield.com,1
+guozheng-shen,179826407@qq.com,guozheng-shen,165548992+guozheng-shen@users.noreply.github.com,1
+Gurvinder Singh,gurvindersinghdahiya@gmail.com,Gurvinder Singh,gurvinder.singh@uninett.no,1
+Gyuho Lee,gyuhox@gmail.com,Gyuho Lee,gyuho@lepton.ai,1
+Hai Huang,haih@us.ibm.com,HAI HUANG,haih@us.ibm.com,0
+haichao li,Haichao.Li@arm.com,Haichao Li,Haichao.li@arm.com,1
+Haiyan Meng,haiyanmeng@google.com,haiyanmeng,haiyanmeng@google.com,1
+Haleygo,hui.wang@daocloud.io,haleygo,hui.wang@daocloud.io,1
+Haoran Wang,haowang@redhat.com,Haoran Wang,Haowang@redhat.com,1
+Haowei Cai,haoweic@google.com,Haowei Cai (Roy),haoweic@google.com,1
+haoyun,hy352144278@gmail.com,haoyun,yun.hao@daocloud.io,1
+haoyun,hy352144278@gmail.com,Haoyun,haoyun@ghostcloud.cn,0
+haoyuan,haoyuan.ge@caicloud.io,haoyuan,harryge00@gmail.com,1
+Harish Kuna,hakuna@amazon.com,Harish K,hakuna@amazon.com,1
+Harish Kuna,hakuna@amazon.com,HARISH KUNA,hakuna@amazon.com,0
+Harish K,hakuna@amazon.com,HARISH KUNA,hakuna@amazon.com,0
+harjas,harjasbathla@gmail.com,Harjas,harjasbathla@gmail.com,1
+Harry Li,harrymingh@gmail.com,Harry Li,bertram_li@163.com,1
+Harry Zhang,hzzh0301@gmail.com,Harry Zhang,resouer@gmail.com,1
+Harry Zhang,hzzh0301@gmail.com,harry zhang,harryz@hyper.sh,0
+Harry Zhang,harryzhang@zju.edu.cn,harry,harryzhang@zju.edu.cn,1
+harry zhang,harryz@hyper.sh,harry zhang,harryzhang@zju.edu.cn,1
+harry zhang,harryzhang@zju.edu.cn,harry,harryzhang@zju.edu.cn,1
+Harshal Neelkamal,harshaln@google.com,Harshal Neelkamal,17376513+HarshalNeelkamal@users.noreply.github.com,1
+Harsh Singh,harsh.prateek.singh@gmail.com,Harsh Singh,harsh.singh@grofers.com,1
+He Xiaoxi,tossmilestone@gmail.com,He Xiaoxi,xxhe@alauda.io,1
+Heba Elayoty,heelayot@microsoft.com,Heba Elayoty,31887807+helayoty@users.noreply.github.com,1
+helen,haitao.zhang@daocloud.io,helen,helenfrank@protonmail.com,1
+Hemant Kumar,hekumar@redhat.com,Hemant Kumar,gnufied@users.noreply.github.com,1
+Henrik Schmidt,mrIncompetent@users.noreply.github.com,Henrik Schmidt,henrik@loodse.com,1
+Henry Wu,wqs@google.com,Henry(Qishan) Wu,wqs@google.com,1
+Hitoshi Mitake,mitake.hitoshi@lab.ntt.co.jp,Hitoshi Mitake,mitake.hitoshi@gmail.com,1
+Hokutosei,jeanepaul@gmail.com,hokutosei,hokutosei,0
+hokutosei,hokutosei,hokutosei,jeanepaul@gmail.com,1
+Hongchao Deng,hongchaodeng1@gmail.com,Hongchao Deng,hongchaodeng@users.noreply.github.com,1
+Howard Zhang,howard.zhang@arm.com,howard,howard.zhang@arm.com,1
+Humble Devassy Chirammal,humble.devassy@gmail.com,Humble Chirammal,humble.devassy@gmail.com,1
+Humble Chirammal,humble.devassy@gmail.com,Humble Chirammal,hchiramm@redhat.com,1
+hwdef,hwdefcom@outlook.com,hwdef,hwdef97@gmail.com,1
+Ian Lewis,ianmlewis@gmail.com,Ian Lewis,IanMLewis@gmail.com,1
+Iceber Gu,caiwei95@hotmail.com,Iceber Gu,wei.cai-nat@daocloud.io,1
+Igor Velichkovich,ivelichkovich@gmail.com,Igor Velichkovich,igorveli@amazon.com,1
+Ihar Hrachyshka,ihar@redhat.com,Ihar Hrachyshka,ihrachys@redhat.com,1
+immutablet,alextc@google.com,immutableT,alextc@google.com,1
+Isaac Hollander McCreery,ihmccreery@google.com,Isaac Hollander McCreery,ihmccreery@users.noreply.github.com,1
+ishangupta-ds,ishangupta.ds@gmail.com,ishangupta-ds,ishan@chaosnative.com,1
+Itamar Holder,iholder@redhat.com,Itamar Holder,77444623+iholder101@users.noreply.github.com,1
+Ivan Shvedunov,ishvedunov@mirantis.com,Ivan Shvedunov,ivan4th@gmail.com,1
+Ivan Towlson,github@hestia.cc,Ivan Towlson,ivan.towlson@microsoft.com,1
+Jacek Nykis,jacek.nykis@canonical.com,Jacek N,jacek.nykis@canonical.com,1
+Jack Francis,jackfrancis@gmail.com,Jack Francis,jack.francis@microsoft.com,1
+Jack Kleeman,jackkleeman@gmail.com,Jack Kleeman,jack@monzo.com,1
+Jake Sanders,jsand@google.com,Jake Sanders,1200829+dekkagaijin@users.noreply.github.com,1
+James Munnelly,jmunnelly@apple.com,James Munnelly,james.munnelly@jetstack.io,1
+James Sturtevant,jsturtevant@gmail.com,James Sturtevant,jstur@microsoft.com,1
+James DeFelice,james.defelice@gmail.com,James DeFelice,james@mesosphere.io,1
+James Munnelly,james@munnelly.eu,James Ravn,james@r-vn.org,0
+James Munnelly,james@munnelly.eu,James DeFelice,james@mesosphere.io,0
+James Munnelly,james@munnelly.eu,James Kyle,james@jameskyle.org,0
+James Ravn,james@r-vn.org,James Ravn,james.ravn@sky.uk,1
+James Ravn,james@r-vn.org,James DeFelice,james@mesosphere.io,0
+James Ravn,james@r-vn.org,James Kyle,james@jameskyle.org,0
+James Ravn,james.ravn@sky.uk,James Ravn and Yoseph Samuel,james.ravn@sky.uk,1
+James DeFelice,james@mesosphere.io,James Kyle,james@jameskyle.org,0
+Jamie Hannaford,jamie@limetree.org,Jamie Hannaford,jamie.hannaford@rackspace.com,1
+Jan Safranek,jsafrane@redhat.com,Jan Šafránek,jsafrane@redhat.com,1
+Jan Wozniak,wozniak.jan@gmail.com,Jan Wozniak,jawoznia@cisco.com,1
+Janet Kuo,chiachenk@google.com,Janet Kuo,JanetKuo@users.noreply.github.com,1
+Janet Kuo,chiachenk@google.com,JanetKuo,chiachenk@google.com,1
+Jason Simmons,1382389+jasimmons@users.noreply.github.com,Jason Simmons,jasimmons90@gmail.com,1
+Jason DeTiberus,detiberusj@vmware.com,Jason DeTiberus,detiber@gmail.com,1
+Jason Riddle,jr1285@vt.edu,Jason Riddle,jason-riddle@users.noreply.github.com,1
+Javier Pérez Hernández,jbperez@google.com,Javier B Perez,jbperez@google.com,1
+Jay Lau,jay.lau.513@gmail.com,Jay Lau,liugya@cn.ibm.com,1
+jay vyas,jvyas@vmware.com,jay vyas,jayunit100.github@gmail.com,1
+jay vyas,jvyas@vmware.com,Jay Vyas,jay@apache.org,0
+jayunit100,jvyas@vmware.com,jayunit100,jay@apache.org,1
+Jean-Francois Chevrette,jfchevrette@gmail.com,Jean-Francois Chevrette,jf.cron0@gmail.com,1
+Jędrzej Nowak,pigmej@gmail.com,Jedrzej Nowak,pigmej@gmail.com,1
+Jeff Grafton,jgrafton@google.com,Jeff Grafton,ixdy@users.noreply.github.com,1
+Jeff Lowdermilk,jeffml@google.com,Jeff Lowdermilk,tiro.jeff.ml@gmail.com,1
+jeff vance,jeff.h.vance@gmail.com,Jeff Vance,jeff.h.vance@gmail.com,1
+Jeff Vance,jeff.h.vance@gmail.com,Jeff Vance,jvance@redhat.com,1
+Jeff Mendoza,jeffmendoza@google.com,Jeff Mendoza,jeffmendoza@live.com,1
+Jeff Bean,jeffreyrobertbean@gmail.com,Jeff Bean,jeff.bean@hds.com,1
+Jeff Lowdermilk,tiro.jeff.ml@gmail.com,Jeff Lowdermlk,tiro.jeff.ml@gmail.com,1
+jennybuckley,jennybuckley@google.com,Jenny Buckley,jennybuckley@google.com,1
+Jeremy Edwards,jeremyedwards@google.com,Jeremy Edwards,1312331+jeremyje@users.noreply.github.com,1
+Jerry-Ge,jerry.ge@arm.com,Jerry.Ge,jerry.ge@arm.com,1
+Jerzy Szczepkowski,jsz@google.com,Jerzy Szczepkowski,jsz@jsz-desk2.waw.corp.google.com,1
+Jess Frazelle,acidburn@microsoft.com,Jess Frazelle,me@jessfraz.com,1
+Jesse Haka,haka.jesse@gmail.com,Jesse Haka,jesse.haka@elisa.fi,1
+jhadvig,jhadvig@redhat.com,jhadvig,j.hadvig@gmail.com,1
+Jiahui Feng,jhf@google.com,Jiahui (Jared) Feng,jhf@google.com,1
+Jian Qiu,jqiu@redhat.com,Jian Qiu,qiujian@cn.ibm.com,1
+Jian Zeng,anonymousknight96@gmail.com,Jian Zeng,zengjian.zj@bytedance.com,1
+Jian Zhang,zjianbjz@cn.ibm.com,Jian Ming Zhang,zhangjm@cn.ibm.com,1
+jianhuiz,jianhui.zhou@huawei.com,jianhuiz,jianhui@outlook.com,1
+Jiatong Wang,wangjiatong@vmware.com,Jiatong Wang,wjiatong@vmware.com,1
+jiatongw,wjiatong@vmware.com,Jiatong Wang,wjiatong@vmware.com,1
+JieJhih Jhang,jiejhihjhang@gmail.com,JieJhih Jhang,aawer12345tw@yahoo.com.tw,1
+JieJhih Jhang,aawer12345tw@yahoo.com.tw,JieJhih,aawer12345tw@yahoo.com.tw,1
+Jihoon Seo,jihoon.seo@etri.re.kr,Jihoon Seo,46767780+jihoon-seo@users.noreply.github.com,1
+jinde.zgm,51435987+jindezgm@users.noreply.github.com,jindezgm,51435987+jindezgm@users.noreply.github.com,1
+jingxueli,jingxueli@trip.com,jingxueli,ljx_family@163.com,1
+jingyih,jingyih@google.com,Jingyi Hu,jingyih@google.com,1
+Jitendra Bhurat,jbhurat@apprenda.com,Jitendra Bhurat,jbhurat@gmail.com,1
+Joakim Roubert,joakimr@axis.com,Joakim Roubert,joakim.roubert@axis.com,1
+Joe Beda,joe.github@bedafamily.com,Joe Beda,joe@bedafamily.com,1
+Joe Finney,spxtr@google.com,Joe Finney,spxtr@users.noreply.github.com,1
+Joel Speed,joel.speed@hotmail.co.uk,Joel Speed,Joel.speed@hotmail.co.uk,1
+Joel Smith,joelsmith@redhat.com,Joel Smith,joesmith@redhat.com,1
+Johannes M. Scheuermann,joh.scheuer@gmail.com,Johannes Scheuermann,johannes.scheuermann@inovex.de,1
+Johannes Scheuermann,johannes.scheuermann@inovex.de,Johannes Scheuermann,joh.scheuer@gmail.com,1
+John McGrath,8764013+jmcgrath207@users.noreply.github.com,John Mcgrath,john.mcgrath207@gmail.com,1
+John Schnake,jschnake@vmware.com,John Schnake,john@apcera.com,1
+Jon Huhn,nojnhuh@users.noreply.github.com,Jon Huhn,huhnjon@gmail.com,1
+Jonathan Lebon,jonathan@jlebon.com,Jonathan Lebon,jlebon@redhat.com,1
+Jonathan Lebon,jonathan@jlebon.com,Jonathan Pulsifer,jonathan@pulsifer.ca,1
+Jordan Liggitt,liggitt@google.com,Jordan Liggitt,jordan@liggitt.net,1
+Jordan Faust,jfaust47@gmail.com,Jordan Faust,jordan.faust@cerner.com,1
+Jorge O. Castro,jorge.castro@gmail.com,Jorge O. Castro,jorge@heptio.com,1
+jornshen,shencanhui1@huawei.com,jornshen,shencanhui@foxmail.com,1
+Joseph Burnett,josephburnett79@gmail.com,Joseph Burnett,josephburnett@google.com,1
+Joseph Herlant,aerostitch@debian.org,Joseph Herlant,herlantj@gmail.com,1
+Joseph Wright,joseph@cloudboss.co,Joseph Anthony Pasquale Holsten,joseph@josephholsten.com,0
+joseph-lanoux,joseph.lanoux@hpe.com,Joseph Lanoux,joseph.lanoux@hpe.com,1
+Josh Soref,2119212+jsoref@users.noreply.github.com,Josh Soref,jsoref@users.noreply.github.com,1
+Josh Horwitz,josh.horwitz@oracle.com,Josh Horwitz,horwitzja@gmail.com,1
+juanvallejo,juan.vallejo.12@cnu.edu,juanvallejo,jvallejo@redhat.com,1
+Julianne DeMars,judemars@google.com,Julianne DeMars,julianne.demars@gmail.com,1
+Julian V. Modesto,julianvmodesto@google.com,Julian V. Modesto,julianvmodesto@gmail.com,1
+Julien Balestra,julien.balestra@datadoghq.com,JulienBalestra,julien.balestra@datadoghq.com,1
+Julien Balestra,julien.balestra@datadoghq.com,Julien Balestra,julien.balestra@gmail.com,1
+JulienBalestra,julien.balestra@datadoghq.com,JulienBalestra,julien.balestra@gmail.com,1
+JUN YANG,yang.jun22@zte.com.cn,JUN YANG,69306452+yangjunmyfm192085@users.noreply.github.com,1
+Justin Garrison,justin@linux.com,Justin Santa Barbara,justin@fathomdb.com,0
+Justin Garrison,justin@linux.com,Justin Garrison,justinleegarrison@gmail.com,1
+Justin Garrison,justin@linux.com,Justin SB,justin@fathomdb.com,0
+justinsb,justinsb@google.com,Justin SB,justinsb@google.com,1
+justinsb,justinsb@google.com,Justin Santa Barbara,justinsb@google.com,0
+Justin SB,justinsb@google.com,Justin Santa Barbara,justinsb@google.com,1
+Justin SB,justinsb@google.com,Justin SB,justin@fathomdb.com,1
+Justin Santa Barbara,justinsb@google.com,Justin Santa Barbara,justin@fathomdb.com,1
+Justin Lindh,justinlindh@gmail.com,Justin Lindh,justin.lindh@webfilings.com,1
+Kai,Schweinepriester@users.noreply.github.com,Kai,kai.wang@daocloud.io,1
+Kante Yin,kerthcet@gmail.com,Kante,kerthcet@gmail.com,1
+kargakis,mkargaki@redhat.com,kargakis,kargakis@users.noreply.github.com,1
+Karl Isenberg,karlisenberg@google.com,Karl Isenberg,karlkfi@gmail.com,1
+Karl 'NaN' Wikström,karl@wikstrom.io,Karl Isenberg,karl@mesosphere.io,0
+Karl 'NaN' Wikström,karl@wikstrom.io,Karl Beecher,karl@endocode.com,0
+Karl Isenberg,karl@mesosphere.io,Karl Beecher,karl@endocode.com,0
+Karthik Bhat,karthikkn1997@gmail.com,Karthik K N,karthikkn1997@gmail.com,1
+Kartik Sharma,kartik.sharma@india.nec.com,kartik494,kartik.sharma@india.nec.com,1
+Kathrin Probst,kprobst@google.com,Kathrin Probst,kprobst@kprobst-macbookair2.roam.corp.google.com,1
+Katrina Verey,katrina.verey@shopify.com,Katrina Verey,kn.verey@gmail.com,1
+Kazuki Suda,ksuda@preferred.jp,Kazuki Suda,kazuki.suda@gmail.com,1
+Ke Zhang,zhang.ke106@zte.com.cn,Ke Zhang,zhangke909@qq.com,1
+Kebe,kebe.liu@daocloud.io,KEBE,kebe.liu@daocloud.io,0
+Keisuke Ishigami,k.130.email@gmail.com,Keisuke Ishigami,62370522+kei01234kei@users.noreply.github.com,1
+Kenichi Omichi,ken-oomichi@wx.jp.nec.com,Ken'ichi Ohmichi,ken-oomichi@wx.jp.nec.com,1
+Kenneth Owens,owensk@google.com,Kenneth Owens,kowens0826@gmail.com,1
+Kenneth D. Evensen,kevensen@redhat.com,Kenneth Evensen,kevensen@redhat.com,1
+Kensei Nakada,handbomusic@gmail.com,Kensei Nakada,44139130+sanposhiho@users.noreply.github.com,1
+Kermit Alexander II,kermitalexandr@google.com,Kermit Alexander,kermitalexandr@google.com,1
+Kevin Hannon,kehannon@redhat.com,Kevin Hannon,kannon1992@gmail.com,1
+Kevin,kpostlet@redhat.com,Kevin,kwiesmueller@seibert-media.net,1
+Kevin,kwiesmueller@seibert-media.net,Kevin Wiesmüller,kwiesmueller@seibert-media.net,1
+Kevin Taylor,kevin.taylor0811@gmail.com,Kevin Taylor,kevtaylor@expedia.com,1
+Kevin,wangzefeng@huawei.com,kevin-wangzefeng,wangzefeng@huawei.com,0
+Kevin Wang,kevin807359@gmail.com,Kevin Wang,wang.kanghua@zte.com.cn,1
+Khaled (Kal) Henidak,khnidk@outlook.com,Khaled Henidak (Kal),khnidk@outlook.com,1
+Khaled (Kal) Henidak,khnidk@outlook.com,Khaled Henidak(Kal),khnidk@microsoft.com,1
+Khaled Henidak (Kal),khnidk@outlook.com,Khaled Henidak(Kal),khnidk@microsoft.com,1
+kidddddddddddddddddddddd,1062602710@qq.com,kidddddddddddddddddddddd,49895476+kidddddddddddddddddddddd@users.noreply.github.com,1
+Kishen Viswanathan,kishen.viswanathan@ibm.com,Kishen V,kishen.viswanathan@ibm.com,1
+Klaus Ma,klausm@nvidia.com,Klaus Ma,klaus1982.cn@gmail.com,1
+knight,1004815462@qq.com,knightXun,1004815462@qq.com,1
+"Kobayashi,Daisuke",kobayashi.da-06@fujitsu.com,Kobayashi Daisuke,kobayashi.da-06@fujitsu.com,1
+Krishnakumar R(KK),29471693+kkmsft@users.noreply.github.com,Krishnakumar R,29471693+kkmsft@users.noreply.github.com,1
+Kristian Klausen,kristian@klausen.dk,Kristian Klausen,klausenbusk@hotmail.com,1
+KubeKyrie,shaolong.qin@daocloud.io,KubeKyrie,qinshao2009@outlook.com,1
+Kubernetes Prow Robot,20407524+k8s-ci-robot@users.noreply.github.com,Kubernetes Release Robot,k8s-release-robot@users.noreply.github.com,1
+Kubernetes Prow Robot,20407524+k8s-ci-robot@users.noreply.github.com,Kubernetes Prow Robot,k8s-ci-robot@users.noreply.github.com,1
+kunwuluan,kunwuluan@gmail.com,KunWuLuan,kunwu1997@qq.com,0
+Laila Kassar,laila.m.kassar@gmail.com,Laila Kassar,lakassar@microsoft.com,1
+Lalit Chauhan,lalitchauhan@google.com,Lalit Chauhan,lalitc375@gmail.com,1
+Lantao Liu,lantaol@google.com,Lantao Liu,taotaotheripper@gmail.com,1
+Lars Ekman,uablrek@gmail.com,Lars Ekman,lars.g.ekman@est.tech,1
+Laszlo Janosi,laszlo.janosi@nokia.com,Laszlo Janosi,laszlo.janosi@ibm.com,1
+lauralorenz,lauralorenz@google.com,Laura Lorenz,lauralorenz@google.com,1
+Lee Cattarin,lecattar@microsoft.com,Lee Cattarin,lee.cattarin@gmail.com,1
+Lee Verberne,verb@google.com,Lee Verberne,lee@verb.is,1
+leigh capili,stealthybox@users.noreply.github.com,leigh capili,leigh@null.net,1
+leigh capili,leigh@null.net,leigh schrandt,leigh@null.net,0
+leilei.wan.cn,leilei.wan.cn@gmail.com,leileiwan,leilei.wan.cn@gmail.com,1
+liang chenye,liangchenye@huawei.com,liangchenye,liangchenye@huawei.com,1
+Lin Yang,reaver@flomesh.io,Lin Yang,lin.a.yang@intel.com,1
+linyouchong,lin.youchong@zte.com.cn,linyouchong,linyouchong@gmail.com,1
+lixiaobing1,li.xiaobing1@zte.com.cn,lixiaobing10051267,li.xiaobing1@zte.com.cn,1
+liyuerich,yue.li@daocloud.io,liyuerich,liyuesbs@sina.com,1
+Lorenz Brun,lorenz@brun.one,Lorenz Brun,lorenz@nexantic.com,1
+louisgong,gongguanjun@hotmail.com,louisgong,louisssgong@tencent.com,1
+louisgong,louisssgong@tencent.com,louisssgong,louisssgong@tencent.com,1
+lowang-bh,lhui_wang@163.com,lowang_bh,lhui_wang@163.com,1
+Lubomir I. Ivanov,neolit123@gmail.com,Lubomir I. Ivanov,lubomirivanov@vmware.com,1
+lubronzhan,lzhan@vmware.com,lubronzhan,lubronzhan@gmail.com,1
+Luca Bernstein,luca@lucabernstein.com,Luca Lanziani,luca@lanziani.com,0
+Lucas Käldström,lucas@weave.works,Lucas Käldström,luxas@users.noreply.github.com,1
+lucming,lucming1@gmail.com,lucming,2876757716@qq.com,1
+Luis Pabón,luis@portworx.com,Luis Pabón,lpabon@users.noreply.github.com,1
+Lukas Grossar,lukas.grossar@adfinis.com,Lukas Grossar,lukas.grossar@adfinis-sygroup.ch,1
+Lukasz Zajaczkowski,lukasz.zajaczkowski@ts.fujitsu.com,Lukasz Zajaczkowski,Lukasz.Zajaczkowski@ts.fujitsu.com,1
+lvjiangzhao,lvjiangzhao@jd.com,lvjiangzhao,jiangzhao_l@hotmail.com,1
+m1093782566,m1093782566@163.com,m1093782566,dujun5@huawei.com,1
+Maciej Szulik,soltysh@gmail.com,Maciej Szulik,maszulik@redhat.com,1
+Maciej Pytel,maciekpytel@google.com,MaciekPytel,maciekpytel@google.com,1
+Maciej Kwiek,maciej.iai@gmail.com,Maciej Kwiek,mkwiek@mirantis.com,1
+Madhusudan.C.S,madhusudancs@google.com,Madhusudan.C.S,madhusudancs@gmail.com,1
+Magnus Kulke,mkulke@gmail.com,Magnus Kulke,magnus.kulke@thinkstep.com,1
+Malcolm Lee,fengxueyu35@126.com,malcolm lee,fengxueyu35@126.com,1
+Mangirdas Judeikis,mangirdas@judeikis.lt,Mangirdas,mangirdas@judeikis.lt,1
+Manish Yathnalli,myathnal@redhat.com,Manish,myathnal@redhat.com,1
+Manish Kumar,manishjpiet@gmail.com,Manish Kumar,manish.kumar1@india.nec.com,1
+Manjunath A Kumatagi,mkumatag@in.ibm.com,Manjunath Kumatagi,mkumatag@in.ibm.com,1
+Manohar Reddy,b.manu199@gmail.com,Manohar Reddy,manohar@esper.io,1
+Manu Gupta,manugupt1@gmail.com,Manu Gupta,mgpta@amazon.com,1
+Manuel Alejandro de Brito Fontes,aledbf@gmail.com,Manuel de Brito Fontes,aledbf@gmail.com,1
+Marc Khouzam,marc.khouzam@gmail.com,Marc Khouzam,marc.khouzam@montreal.ca,1
+Marc Power,marcpow@hotmail.com,Marc Power,marcpow@microsoft.com,1
+Marc Lough,maclof@gmail.com,Marc Lough,marc@ahead4.com,1
+Marcel Zieba,marcel.zieba@isovalent.com,Marcel Zięba,marcelzieba@google.com,1
+Marcin Maciaszczyk,maciaszczykm@icloud.com,Marcin Maciaszczyk,marcin.maciaszczyk@ts.fujitsu.com,1
+Marcin Owsiany,mowsiany@D2iQ.com,Marcin Owsiany,marcin@owsiany.pl,1
+Marcin Wielgus,mwielgus@google.com,Marcin,mwielgus@google.com,1
+Marcin Wielgus,mwielgus@google.com,Marcin Wielgus,mwielgus@mwusa.hot.corp.google.com,1
+Marcus Puckett,13648427+mpuckett159@users.noreply.github.com,Marcus Puckett,mpuckett259@gmail.com,1
+Marek Siarkowicz,siarkowicz@google.com,Marek Siarkowicz,serathius@users.noreply.github.com,1
+Marek Grabowski,gmarek@google.com,Marek Grabowski,grmarek@gmail.com,1
+Marek Biskup,biskup@google.com,Marek Biskup,marekbiskup@users.noreply.github.com,1
+Marek Biskup,biskup@google.com,marekbiskup,biskup@google.com,1
+Mario Valderrama,mario.valderrama@ionos.com,Mario Valderrama,valderrama@strato.de,1
+Mark Rossetti,marosset@microsoft.com,Mark Rossett,marosset@microsoft.com,1
+Mark Petrovic,mark.petrovic@xoom.com,Mark S. Petrovic,mspetrovic@gmail.com,1
+Marko Lukša,marko.luksa@gmail.com,Marko Luksa,marko.luksa@gmail.com,1
+Marly Puckett,mpuckett259@gmail.com,Marly Puckett,13648427+mpuckett159@users.noreply.github.com,1
+Martin Kanters,mkanters93@gmail.com,martin,mkanters93@gmail.com,1
+Martin Helmich,martin@helmich.me,Martin Westergaard Lassen,martin@mwl.dk,0
+Martin Helmich,martin@helmich.me,Martin Gannholm,martin@way2clever.com,0
+Martin Linkhorst,linki@users.noreply.github.com,Martin Linkhorst,martin.linkhorst@zalando.de,1
+Martin Westergaard Lassen,martin@mwl.dk,Martin Gannholm,martin@way2clever.com,0
+Martin Nagy,mnagy@redhat.com,Martin Nagy,nagy.martin@gmail.com,1
+Maru Newby,me@maru.ca,Maru Newby,marun@redhat.com,1
+mason1kwok,mason1kwok@gmail.com,Mason Kwok,mason1kwok@gmail.com,0
+Mateusz Gozdek,mgozdek@microsoft.com,Mateusz Gozdek,mateusz@kinvolk.io,1
+Mateusz Litwin,mlitwin@openai.com,Mateusz,mlitwin@openai.com,1
+Mathieu Velten,mathieu.velten@cern.ch,Mathieu Velten,matmaul@gmail.com,1
+Matt Dainty,matt@bodgit-n-scarper.com,Matt Farina,matt@mattfarina.com,1
+Matt Dainty,matt@bodgit-n-scarper.com,Matt Condon,matt@skillshare.com,0
+Matt Dainty,matt@bodgit-n-scarper.com,Matt Freeman,matt@nowprovision.com,0
+Matt Dainty,matt@bodgit-n-scarper.com,Matt Margolin,matt@tradesy.com,0
+Matt Dainty,matt@bodgit-n-scarper.com,Matt Dupre,matt@projectcalico.org,0
+Matt Dainty,matt@bodgit-n-scarper.com,Matt Keeble,matt@beldougie.com,0
+Matt Liggett,mml@google.com,Matt Liggett,mml@users.noreply.github.com,1
+Matt Farina,matt@mattfarina.com,Matt Condon,matt@skillshare.com,0
+Matt Farina,matt@mattfarina.com,Matt Freeman,matt@nowprovision.com,1
+Matt Farina,matt@mattfarina.com,Matt Margolin,matt@tradesy.com,1
+Matt Farina,matt@mattfarina.com,Matt Dupre,matt@projectcalico.org,0
+Matt Farina,matt@mattfarina.com,Matt Keeble,matt@beldougie.com,0
+Matt Bruzek,mbruzek@gmail.com,Matt Bruzek,matthew.bruzek@canonical.com,1
+Matt Condon,matt@skillshare.com,Matt Freeman,matt@nowprovision.com,0
+Matt Condon,matt@skillshare.com,Matt Margolin,matt@tradesy.com,0
+Matt Condon,matt@skillshare.com,Matt Dupre,matt@projectcalico.org,0
+Matt Condon,matt@skillshare.com,Matt Keeble,matt@beldougie.com,0
+Matt Freeman,matt@nowprovision.com,Matt Freeman,nowprovision@users.noreply.github.com,1
+Matt Freeman,matt@nowprovision.com,Matt Margolin,matt@tradesy.com,0
+Matt Freeman,matt@nowprovision.com,Matt Dupre,matt@projectcalico.org,0
+Matt Freeman,matt@nowprovision.com,Matt Keeble,matt@beldougie.com,0
+Matt Dupre,matthew.dupre@metaswitch.com,Matt Dupre,matt@projectcalico.org,1
+Matt Margolin,matt@tradesy.com,Matt Dupre,matt@projectcalico.org,0
+Matt Margolin,matt@tradesy.com,Matt Keeble,matt@beldougie.com,0
+Matt Dupre,matt@projectcalico.org,Matt Keeble,matt@beldougie.com,0
+Matthew Robinson,matt@zensunni.org,Matthew Farrellee,matt@redhat.com,0
+Matthew Wong,mattwon@amazon.com,Matthew Wong,matthewwong.wong@alum.utoronto.ca,1
+Mauricio Poppe,mauricio.poppe@gmail.com,Mauricio Poppe,mauriciopoppe@google.com,1
+Max Goltzsche,max.goltzsche@gmail.com,Max Goltzsche,mgoltzsche@users.noreply.github.com,1
+Maxwell Forbes,mbforbes@users.noreply.github.com,Maxwell Forbes,maxforbes@google.com,1
+Mayuka Channankaiah,Mayuka.C@ibm.com,Mayuka Channankaiah,57181320+mayuka-c@users.noreply.github.com,1
+Mehdy Bohlool,mehdy@google.com,mehdy,mehdy@users.noreply.github.com,0
+Mengjiao Liu,mengjiao.liu@daocloud.io,mengjiao.liu,mengjiao.liu@daocloud.io,1
+Mengqi (David) Yu,mengqiyu@amazon.com,Mengqi Yu,mengqiy@google.com,1
+Micah Hausler,mhausler@amazon.com,Micah Hausler,hausler.m@gmail.com,1
+Michal Wozniak,michalwozniak@google.com,Michal Wozniak,mw219725@gmail.com,1
+Michael Fraenkel,michael.fraenkel@gmail.com,Michael Fraenkel,fraenkel@us.ibm.com,1
+Michael Taufen,mtaufen@google.com,Michael Taufen,mtaufen@gmail.com,1
+michael mccune,msm@opbstudios.com,Michael McCune,elmiko@redhat.com,0
+Michael Weibel,michael@helio.exchange,Michael FIG,michael@liveblockauctions.com,0
+Michael Weibel,michael@helio.exchange,Michael Vilensky,michael@secful.com,0
+Michael Weibel,michael@helio.exchange,Michael Faille,michael@faille.io,0
+Michael Vorburger,vorburger@google.com,Michael Vorburger ⛑️,vorburger@google.com,1
+Michael FIG,michael@liveblockauctions.com,Michael Vilensky,michael@secful.com,0
+Michael FIG,michael@liveblockauctions.com,Michael Faille,michael@faille.io,0
+Michalis Kargakis,kargakis@protonmail.ch,Michalis Kargakis,mkargaki@redhat.com,1
+Michalis Kargakis,mkargaki@redhat.com,Michail Kargakis,mkargaki@redhat.com,1
+Michal Rostecki,michal@kinvolk.io,Michal Rostecki,mrostecki@mirantis.com,1
+Michael Vilensky,michael@secful.com,Michael Faille,michael@faille.io,0
+Michael Schmidt,michael02.schmidt@sap.com,Michael Schmidt,michael.j.schmidt@gmail.com,1
+Mikaël Cluseau,mikael.cluseau@gmail.com,Mikaël Cluseau,mcluseau@isi.nc,1
+Mikalai Radchuk,radchuk.m@gmail.com,Mikalai Radchuk,mradchuk@redhat.com,1
+Mike Danese,mikedanese@google.com,Mike Danese,mikedanese@gmail.com,1
+Mike Arpaia,mike@arpaia.co,Mike Chernev,mike@mikechernev.com,0
+Mike Arpaia,mike@arpaia.co,Mike Lundy,mike@fluffypenguin.org,0
+Mike Arpaia,mike@arpaia.co,Mike Bryant,mike@mikebryant.me.uk,0
+Mike Arpaia,mike@arpaia.co,Mike Zupan,mike@zcentric.com,0
+Mike Chernev,mike@mikechernev.com,Mike Lundy,mike@fluffypenguin.org,0
+Mike Chernev,mike@mikechernev.com,Mike Bryant,mike@mikebryant.me.uk,0
+Mike Chernev,mike@mikechernev.com,Mike Zupan,mike@zcentric.com,0
+Mike Lundy,mike@fluffypenguin.org,Mike Bryant,mike@mikebryant.me.uk,0
+Mike Lundy,mike@fluffypenguin.org,Mike Zupan,mike@zcentric.com,0
+Mike Bryant,mike@mikebryant.me.uk,Mike Zupan,mike@zcentric.com,0
+MikeJeffrey,MikeJeffrey@users.noreply.github.com,MikeJeffrey,mike.jeffrey@gmail.com,1
+Mikhail Mazurskiy,mmazurskiy@gitlab.com,Mikhail Mazurskiy,126021+ash2k@users.noreply.github.com,1
+Mikkel Oscar Lyderik Larsen,mikkel.larsen@zalando.de,Mikkel Oscar Lyderik Larsen,m@moscar.net,1
+Mikkel Oscar Lyderik Larsen,m@moscar.net,Mikkel Oscar Lyderik,m@moscar.net,1
+Minhan Xia,mixia@google.com,Minhan Xia,Minhan.Xia@gmail.com,1
+mlmhl,malinbupt@gmail.com,mlmhl,409107750@qq.com,1
+Mo Khan,i@monis.app,Mo Khan,mkhan@redhat.com,1
+modulitos,modulitos@users.noreply.github.com,modulitos,hi@modulitos.com,1
+Mohamed Omar Zaian,mohamedzaian@gmail.com,Mohamed Zaian,mohamedzaian@gmail.com,1
+Mohamed Chiheb Ben Jemaa,mc.benjemaa@gmail.com,Mohamed chiheb Ben jemaa,mc.benjemaa@gmail.com,1
+Monis Khan,i@monis.app,Monis Khan,mkhan@redhat.com,1
+Monokaix,changxuzheng@huawei.com,Monokaix,2536818783@qq.com,1
+MorrisLaw,jeremylevanmorris@gmail.com,morrislaw,jeremylevanmorris@gmail.com,1
+Moshe Levi,moshele@nvidia.com,Moshe Levi,moshele@mellanox.com,1
+Mrunal Patel,mpatel@redhat.com,Mrunal Patel,mrunalp@gmail.com,1
+Muhammed Uluyol,uluyol0@gmail.com,Muhammed Uluyol,uluyol@google.com,1
+Nadia Pinaeva,npinaeva@redhat.com,Nadia Pinaeva,n.m.pinaeva@gmail.com,1
+Naman,namanlakhwani@gmail.com,Naman Lakhwani,namanlakhwani@gmail.com,1
+Naman,namanlakhwani@gmail.com,Namanl2001,namanlakhwani@gmail.com,1
+Naman Lakhwani,namanlakhwani@gmail.com,Namanl2001,namanlakhwani@gmail.com,1
+Natasha Sarkar,natashasarkar@google.com,natasha41575,natashasarkar@google.com,1
+Nathan Button,nbutton@ancestry.com,Nathan Button,nathan.button@gmail.com,1
+Navid Shaikh,navids@vmware.com,Navid Shaikh,shaikhnavid14@gmail.com,1
+Nic Cope,nicc@rk0n.org,Nic Cope,negz@planet.com,1
+Nick Santos,nick.santos@docker.com,Nick Santos,nicholas.j.santos@gmail.com,1
+Nick Maliwacki,knic.knic@gmail.com,Nick Maliwacki,nmaliwa@microsoft.com,1
+Nick Santos,nick@tilt.dev,Nick Stott,nick@nickstott.com,1
+Nick Santos,nick@tilt.dev,Nick Schuch,nick@myschuch.com,0
+Nick Sardo,nicksardo@google.com,Nick Sardo,nicksardo@users.noreply.github.com,1
+Nick Stott,nick@nickstott.com,Nick Schuch,nick@myschuch.com,0
+NickrenREN,nickren19@gmail.com,NickrenREN,renyuquan@caicloud.io,1
+nikhiljindal,nikhiljindal@google.com,Nikhil Jindal,nikhiljindal@google.com,1
+nikhiljindal,nikhiljindal@google.com,nikhiljindal,nikhiljindal18@gmail.com,1
+Nikhil Jindal,nikhiljindal@google.com,Nikhil Jindal,nikhiljindal18@gmail.com,1
+Nikola,peac36@abv.bg,Nikola,nikolastoqnow@gmail.com,1
+Nils Domrose,nils.domrose@inovex.de,Nils Domrose,github@domrose.net,1
+Noah Ispas,Noahispas@gmail.com,Noah Ispas (iamNoah1),noahispas@gmail.com,1
+obitech,ajknipping@mailbox.org,obitech,obitech@users.noreply.github.com,1
+Odin Ugedal,ougedal@palantir.com,Odin Ugedal,odin@uged.al,1
+Olivier Lemasle,olivier.lemasle@apalia.net,Olivier Lemasle,o.lemasle@gmail.com,1
+Ondra Kupka,okupka@redhat.com,Ondra Kupka,ondra.cap@gmail.com,1
+Oz N Tiram,oz.tiram@gmail.com,Oz N Tiram,oz.tiram@mobilityhouse.com,1
+Paco Xu,paco.xu@daocloud.io,Paco Xu 徐俊杰,paco.xu@daocloud.io,1
+Pat Christopher,pchristopher@salesforce.com,Pat Christopher,coffeepac@gmail.com,1
+Patrik Cyvoct,patrik@ptrk.io,Patrik Erdes,patrik@erdes.se,0
+Patrick Hunziker,patrick@hunziker.io,Patrick Reilly,patrick@kismatic.io,0
+Patrick Lang,patrick.lang@hotmail.com,Patrick Lang,PatrickLang@users.noreply.github.com,1
+Patrick Barker,barkerp@vmware.com,Patrick Barker,patrickbarkerco@gmail.com,1
+Patrick Reilly,patrick@kismatic.io,Patrick Reilly,preilly@php.net,1
+Patrick,preilly@php.net,Patrick Reilly,preilly@php.net,1
+Patryk Duński,patryk.dunski@kende.pl,Patryk Dunski,patryk.dunski@kende.pl,1
+Paul Morie,pmorie@apple.com,Paul Morie,pmorie@redhat.com,1
+Paulo Gomes,pjbgf@linux.com,Paulo Gomes,paulo.gomes.uk@gmail.com,1
+Paulo Pires,pjpires@gmail.com,Paulo Pires,pires@apprenda.com,1
+Pedro Roque Marques,roque@juniper.net,Pedro Marques,pedro.r.marques@gmail.com,0
+pegasas,pegasashjy@gmail.com,pegasas,616672335@qq.com,1
+Pengfei Ni,feiskyer@gmail.com,Pengfei Ni,peni@microsoft.com,1
+Peter Hunt,pehunt@redhat.com,Peter Hunt~,pehunt@redhat.com,1
+Philip Ottesen,philip.ottesen@vimeo.com,Philip Ottesen,pjo256@nyu.edu,1
+Philip Hamer,48808444+philipatl@users.noreply.github.com,Philip Hamer,phamer@paloaltonetworks.com,1
+Phillip Wittrock,pwittroc@google.com,Phillip Wittrock,pwittroc+github@google.com,1
+Pierre Ozoux,pierre@ozoux.net,Pierre du Plessis,pierre@pcservice.co.za,0
+PingWang,wang.ping5@zte.com.cn,PingWang,present.wp@icloud.com,1
+PiotrProkop,pprokop@nvidia.com,PiotrProkop,piotr.prokop@intel.com,1
+Piotr Skamruk,pskamruk@mirantis.com,Piotr Skamruk,piotr.skamruk@gmail.com,1
+Piotr Komborski,piotr.komborski@gmail.com,Piotr Komborski,piotr.komborski@springer.com,1
+pontiyaraja,ramamoorthypandiyaraja@gmail.com,pontiyaraja,1989030+pontiyaraja@users.noreply.github.com,1
+Prashanth B,beeps@google.com,Prashanth Balasubramanian,beeps@google.com,1
+Pushkar Joglekar,pushkar.joglekar1789@gmail.com,Pushkar Joglekar,pjoglekar@vmware.com,1
+pwittrock,pwittroc@google.com,pwittrock,phil.wittrock@gmail.com,1
+Qiming Teng,tengqm@outlook.com,Qiming Teng,tengqim@cn.ibm.com,1
+qingwave,isguory@gmail.com,qingwave,854222409@qq.com,1
+Quan Tian,qtian@vmware.com,Quan Tian,quan.tian@broadcom.com,1
+Quentin MACHU,me@quentin-machu.fr,Quentin Machu,quentin.machu@coreos.com,1
+Quinton Hoole,quinton.hoole@huawei.com,Quinton Hoole,quinton@google.com,1
+Rafael Chacón,rafaelchacon@gmail.com,Rafael Chacon,rafaelchacon@gmail.com,1
+Raffaele Di Fazio,difazio.raffaele@gmail.com,Raffaele Di Fazio,raffaele.difazio@blacklane.com,1
+RainbowMango,qdurenhongcai@gmail.com,RainbowMango,renhongcai@huawei.com,1
+Rajalakshmi-Girish,rajalakshmi.girish1@ibm.com,Rajalakshmi-Girish1,rajalakshmi.girish1@ibm.com,1
+Rajalakshmi-Girish,rajalakshmi.girish1@ibm.com,Rajalakshmi Girish,rajalakshmi.girish1@ibm.com,1
+Rajalakshmi-Girish,rajalakshmi.girish1@ibm.com,Rajalakshmi-Girish,rajalakshmi.girish@ibm.com,1
+Rajalakshmi-Girish1,rajalakshmi.girish1@ibm.com,Rajalakshmi Girish,rajalakshmi.girish1@ibm.com,1
+Rajas Kakodkar,rajaskakodkar16@gmail.com,Rajas Kakodkar,rajas.kakodkar@ibm.com,1
+Rajat Chopra,rchopra@redhat.com,Rajat Chopra,rajatchopra@gmail.com,1
+ramnar,raam.soft@gmail.com,ramnar,ramanarayana_m@infosys.com,1
+Random-Liu,taotaotheripper@gmail.com,Random-Liu,lantaol@google.com,1
+Random Liu,lantaol@google.com,Random-Liu,lantaol@google.com,1
+Ravi Gadde,ravi@pensando.io,Ravi Gadde,ravi.gadde@gmail.com,1
+ravisantoshgudimetla,ravisantoshgudimetla@gmail.com,RaviSantosh Gudimetla,ravisantoshgudimetla@users.noreply.github.com,0
+Ray Tsang,rayt@google.com,Ray Tsang,saturnism@users.noreply.github.com,1
+raymonder jin,rayjingithub@gmail.com,Raymonder jin,rayjingithub@gmail.com,1
+Renaud Gaubert,rgaubert@nvidia.com,Renaud Gaubert,renaud.gaubert@gmail.com,1
+resouer,resouer@163.com,resouer,resouer@gmail.com,1
+riaan kleinhans,riaankleinhans@gmail.com,Riaan Kleinhans,riaan@ii.coop,1
+Riaan Kleinhans,riaan@ii.coop,Riaan Kleinhans,61125752+Riaankl@users.noreply.github.com,1
+Ricardo Pchevuzinske Katz,katz@redhat.com,Ricardo Pchevuzinske Katz,ricardo.katz@broadcom.com,1
+Ricardo Pchevuzinske Katz,katz@redhat.com,Ricardo Katz,ricardo.katz@gmail.com,0
+Ricardo Katz,ricardo.katz@gmail.com,Ricardo Katz,rikatz@users.noreply.github.com,1
+Richard Brown,rbrownccb@opensuse.org,Richard Brown,RBrownCCB@opensuse.org,1
+Ricky Pai,rickyp999+github@gmail.com,Ricky Pai,ricky.pai@airbnb.com,1
+Rishabh Jain,rjain3@vmware.com,Rishabh Jain,rishabh.jain.cs14@gmail.com,1
+rob boll,robert.boll@datadoghq.com,rob boll,robertcboll@gmail.com,1
+Rob Franken,rfranken@google.com,Rob Franken,rob@rob-franken.nl,1
+Rob Scott,robertjscott@google.com,Rob Scott,rob.scott87@gmail.com,1
+Robert Bailey,robertbailey@google.com,Robert Bailey,roberthbailey@users.noreply.github.com,1
+Robert Krawitz,rkrawitz@redhat.com,Robert Krawitz,rlk@redhat.com,1
+Robert Bailey,roberthbailey@users.noreply.github.com,roberthbailey,roberthbailey@users.noreply.github.com,0
+Robin Černín,cerninr@gmail.com,Robin Cernin,cerninr@gmail.com,1
+roc,roc@imroc.cc,roc,roc@imroc.io,1
+Rodrigo Campos,rodrigoca@microsoft.com,Rodrigo Campos,rodrigo@kinvolk.io,1
+Rohit,rjaini@microsoft.com,Rohit Jaini,rjaini@microsoft.com,1
+Rohit Jog,rohitj@vmware.com,rohitjogvmw,rohitj@vmware.com,0
+root,rajalakshmi.girish1@ibm.com,root,shiguangyin@inspur.com,1
+runzhliu,runzhliu@163.com,runzhliu,runzhliu@tencent.com,1
+Rupeng Liu,rupliu@google.com,RupengLiu,rupliu@google.com,1
+RuquanZhao,ruquan.zhao@arm.com,ruquanzhao,ruquan.zhao@arm.com,1
+RuquanZhao,ruquan.zhao@arm.com,Ruquan Zhao,ruquan.zhao@arm.com,1
+ruquanzhao,ruquan.zhao@arm.com,Ruquan Zhao,ruquan.zhao@arm.com,1
+Ryan Richard,richardry@vmware.com,Ryan Richard,ryan.richard@rackspace.com,1
+Ryan Phillips,rphillips@redhat.com,Ryan Phillips,ryan@trolocsis.com,1
+Ryan Phillips,ryan@trolocsis.com,Ryan Roemmich,ryan@roemmich.org,0
+Ryan Phillips,ryan@trolocsis.com,Ryan Roden-Corrent,ryan@rcorre.net,0
+Ryan Roemmich,ryan@roemmich.org,Ryan Roden-Corrent,ryan@rcorre.net,0
+Ryan Hitchman,rmmh@google.com,Ryan Hitchman,hitchmanr@gmail.com,1
+Ryan Fowler,rwfowler@gmail.com,Ryan Fowler,ryan.fowler@singlewire.com,1
+s-ito-ts,s-ito_ts@nec.com,s-ito-ts,s-ito@ts.jp.nec.com,1
+Sahil Raja,sahilraja242@gmail.com,Sahil Raja,sahil.raja@mayadata.io,1
+Saksham Sharma,saksham0808@gmail.com,Saksham Sharma,sakshams@google.com,1
+Salvatore Dario Minonne,salvatore-dario.minonne@amadeus.com,Salvatore Dario MINONNE,salvatore-dario.minonne@amadeus.com,1
+Sam Abed,samsabed@gmail.com,Sam Abed,samabed@gmail.com,1
+Samuel Roth,contact@samuelroth.net,Samuel Roth,2413031+sejr@users.noreply.github.com,1
+sanposhiho,44139130+sanposhiho@users.noreply.github.com,sanposhiho,handbomusic@gmail.com,1
+saravanan palanisamy,saravanan30erd@gmail.com,saravanan30erd,saravanan30erd@gmail.com,1
+Sascha Grunert,sgrunert@redhat.com,Sascha Grunert,sgrunert@suse.com,1
+SataQiu,shidaqiu2018@gmail.com,SataQiu,1527062125@qq.com,1
+Sathyanarayanan Saravanamuthu,sathyanarays@vmware.com,Sathyanarayanan Saravanamuthu,107846526+sathyanarays@users.noreply.github.com,1
+Satnam Singh,satnam@google.com,Satnam Singh,satnam@raintown.org,1
+Saverio Proto,saverioproto@google.com,Saverio Proto,saverio.proto@switch.ch,1
+Saza,the.latticeheart@gmail.com,Saza,49511480+Saza-ku@users.noreply.github.com,1
+scott,scottwangsxll@gmail.com,scott.wang,scottwangsxll@gmail.com,1
+Sean Sullivan,seans@google.com,Sean Sullivan,seans3@gmail.com,1
+Sean Sullivan,seans@google.com,Sean R. Sullivan,seans3@gmail.com,1
+Sebastian Sterk,sebastian@wiuwiu.de,Sebastian Melchior,sebastian@melchior.me,0
+Sebastian Sterk,sebastian@wiuwiu.de,Sebastian Scheele,sebastian@loodse.com,0
+Sebastian Melchior,sebastian@melchior.me,Sebastian Scheele,sebastian@loodse.com,1
+Sebastian Florek,sebastian.florek@ts.fujitsu.com,Sebastian Florek,s.florek91@gmail.com,1
+Sebastain Jug,seb@stianj.ug,Sebastian Jug,sejug@redhat.com,1
+Sergey Kanzhelev,S.Kanzhelev@live.com,Sergey Kanzhelev,skanzhelev@google.com,1
+Sergey Evstifeev,sergey.evstifeev@klarna.com,Sergey Evstifeev,sergey.evstifeev@gmail.com,1
+Sergiusz Urbaniak,sergiusz.urbaniak@gmail.com,Sergiusz Urbaniak,sur@mesosphere.io,1
+Seth Pollack,seth@sethpollack.net,Seth House,seth@eseth.com,0
+Shang Ding,sding3@ncsu.edu,Shang Jian Ding,rifflegrass@gmail.com,0
+shashidharatd,shashidhara.td@huawei.com,Shashidhara T D,shashidhara.td@huawei.com,1
+Shaun Crampton,shaun@tigera.io,Shaun Stanworth,shaun@freeformers.com,0
+shawnhanx,59723284+shawnhanx@users.noreply.github.com,shawnhanx,han.xiao2@zte.com.cn,1
+Shihang Zhang,zshihang@google.com,Shihang Zhang,zhshihang@gmail.com,1
+Shijun Qin,qinshijun16@otcaix.iscas.ac.cn,Shijun Qin,qinshijun16@mails.ucas.ac.cn,1
+Shimin Guo,smguo2001@gmail.com,Shimin Guo,shimin.guo@mixpanel.com,1
+Shiyang Wang,shiywang@redhat.com,Shiyang Wang,shiyang.wang@outlook.com,1
+Shu Muto,shu.mutow@nec.com,Shu Muto,shu.mutow@gmail.com,1
+shubham82,shubham.kuchhal@india.nec.com,Shubham Kuchhal,shubham.kuchhal@india.nec.com,1
+Shyam Jeedigunta,jeedigv@amazon.com,Shyam Jeedigunta,shyamjvs@google.com,1
+Shyam JVS,shyamjvs@google.com,Shyam Jeedigunta,shyamjvs@google.com,1
+silenceshell,me@ieevee.com,silenceshell,hubottle@gmail.com,1
+skilxn-go,tylxltt@gmail.com,skilxn-go,tianye15@baidu.com,1
+Skyler Clark,skylerjaneclark@gmail.com,Skyler Clark,wgahnagl@protonmail.com,1
+Slava Semushin,slava.semushin@gmail.com,Slava Semushin,vsemushi@redhat.com,1
+Solly Ross,sollyross@google.com,Solly Ross,sross@redhat.com,1
+songxiao-wang87,wang.xiaosong23@zte.com.cn,songxiao-wang87,461870555@qq.com,1
+Sotiris Salloumis,sotiris.salloumis@ericsson.com,Sotiris Salloumis,159060890+esotsal@users.noreply.github.com,1
+spxtr,spxtr@google.com,spxtr,spextear@gmail.com,1
+sreeram-venkitesh,sreeramvenkitesh@gmail.com,Sreeram,sreeramvenkitesh@gmail.com,1
+sreeram-venkitesh,sreeramvenkitesh@gmail.com,Sreeram Venkitesh,sreeramvenkitesh@gmail.com,1
+Sreeram,sreeramvenkitesh@gmail.com,Sreeram Venkitesh,sreeramvenkitesh@gmail.com,1
+Sreeram Venkitesh,sreeramvenkitesh@gmail.com,Sreeram Venkitesh,sreeram.venkitesh@bigbinary.com,1
+Stanislav Láznička,stlaz.devel@proton.me,Stanislav Laznicka,slaznick@redhat.com,1
+Stanisław Szydło,stanislaw.szydlo@intel.com,Stanislaw Szydlo,stanislaw.szydlo@intel.com,1
+Stefan Bueringer,buringerst@vmware.com,Stefan Bueringer,sbueringer@gmail.com,1
+Stephen Augustus,foo@auggie.dev,Stephen Augustus,saugustus@vmware.com,1
+Stephen Heywood,stephen@ii.coop,Stephen Benjamin,stephen@redhat.com,0
+Stephen Heywood,stephen@ii.coop,Stephen Heywood,stephen@heyste.com,1
+Steve Kuznetsov,skuznets@redhat.com,Steve Kuznetsov,steve.kuznetsov@gmail.com,1
+Steve Flanders,steve@omnition.io,Steve Sloka,steve@stevesloka.com,0
+Steve Flanders,steve@omnition.io,Steve Kriss,steve@heptio.com,1
+Steve Coffman,StevenACoffman@users.noreply.github.com,Steve Coffman,steve.coffman@ithaka.org,1
+Steve Sloka,slokas@vmware.com,Steve Sloka,steve@stevesloka.com,1
+Steve Sloka,steve@stevesloka.com,Steve Kriss,steve@heptio.com,0
+Steve Kriss,krisss@vmware.com,Steve Kriss,steve@heptio.com,1
+Steve Milner,smilner@redhat.com,Steve Milner,stevem@gnulinux.net,1
+Steve Watt,swatt@redhat.com,Steve Watt,wattsteve@yahoo.com,1
+stewart-yu,yuchuanjian@huawei.com,Stewart-YU,yuchuanjian@huawei.com,1
+Sunil Shivanand,padlar@live.com,Sunil Shivanand,sunil.shivanand@statnett.no,1
+Sunny Song,songsunny@google.com,sunnylovestiramisu,songsunny@google.com,0
+Sunny Song,songsunny@google.com,Sunny Song,sunnycat@google.com,1
+supereagle,yuejinming@caicloud.io,supereagle,jmyue@hotmail.com,1
+Suraj Deshmukh,surajd.service@gmail.com,Suraj Deshmukh,surajssd009005@gmail.com,1
+Sylvain Rabot,sylvain@abstraction.fr,Sylvain Rabot,s.rabot@lectra.com,1
+Sylwester Brzeczkowski,sbrzeczkowski@mirantis.com,Sylwester Brzeczkowski,sylwek1992@gmail.com,1
+taesun_lee,superbsun@gmail.com,Taesun Lee,superbsun@gmail.com,1
+Taesun Lee,superbsun@gmail.com,Taesun Lee,59636536+taesunny@users.noreply.github.com,1
+Takashi Kusumi,tkusumi@zlab.co.jp,Takashi Kusumi,takashi.kusumi@gmail.com,1
+Tamal Saha,tamal@appscode.com,tamal,tamal@appscode.com,1
+Tamer Tas,contact@tmrts.com,Tamer Tas,tamertas@outlook.com,1
+tanjunchen,tanjunchen20@gmail.com,tanjunchen,2799194073@qq.com,1
+Tara Gu,guw@ibm.com,Tara Gu,tara.weiqing@gmail.com,1
+Tariq Ibrahim,tariq181290@gmail.com,tariqibrahim,tariq181290@gmail.com,1
+Ted Yu,yuzhihong@gmail.com,Ted Yu,yute@vmware.com,1
+thdrnsdk,kangsub55.song@samsung.com,thdrnsdk,thdrnsdk@naver.com,1
+Thom May,thom@may.lt,Thom May,thom_may@external.mckinsey.com,1
+Thomas Hein,thomas@onlineth.com,Thomas Riccardi,thomas@deepomatic.com,0
+Thomas Hein,thomas@onlineth.com,Thomas Fricke,thomas@endocode.com,1
+Thomas Riccardi,thomas@deepomatic.com,Thomas Fricke,thomas@endocode.com,1
+Tiago Silva,tiago.silva@goteleport.com,Tiago Silva,tfsantossilva93@gmail.com,1
+tiffany jernigan,tfj@amazon.com,Tiffany Jernigan,tiffany.jernigan@intel.com,1
+Tim Allclair,tallclair@google.com,Tim Allclair,timallclair@gmail.com,1
+Tim Allclair,tallclair@google.com,Tim Allclair (St. Clair),tallclair@google.com,1
+Tim Bannister,193443691+lmktfy@users.noreply.github.com,Tim Bannister,tim@scalefactory.com,1
+Tim Zhang,zxysjtu@gmail.com,Tim Zhang,zhang.xiaoyu33@zte.com.cn,1
+Timothy St. Clair,stclairt@vmware.com,Timothy St. Clair,timothysc@gmail.com,1
+Tobias Klauser,tklauser@distanz.ch,Tobias Klauser,tobias@isovalent.com,1
+Tomas Tormo,tomas.tormo@nearform.com,Tomas Tormo,tomas.tormo@gmail.com,1
+Tomáš Kukrál,tom+noreply@6shore.net,Tomáš Kukrál,tomkukral@users.noreply.github.com,1
+Tony Li,tony.li@nytimes.com,Tony Li,tonyli.lives@gmail.com,1
+toyoda,k-toyoda@nec.com,toyoda,k-toyoda@pi.jp.nec.com,1
+Łukasz Osipiuk,lukaszos@google.com,Łukasz Osipiuk,lukasz@osipiuk.net,1
+unvavo,unvavo.k@gmail.com,unvavo,kensuke.nobumoto@3-shake.com,1
+upodroid,cy@borg.dev,upodroid,upodroid@users.noreply.github.com,1
+uzuku,danielwsam@gmail.com,Uzuku,danielwsam@gmail.com,1
+vaibhav2107,T_Vaibhav.Goel@india.nec.com,vaibhav,t_vaibhav.goel@india.nec.com,1
+vaibhavsood,vaibhavs@us.ibm.com,Vaibhav Sood,vaibhavs@us.ibm.com,1
+Vallery Lancey,vallerylancey@gmail.com,Vallery Lancey,vlancey@lyft.com,1
+vanduc95,ducnguyenvan.bk@gmail.com,vanduc95,ducnv@vn.fujitsu.com,1
+Varsha Teratipally,teratipally@google.com,varsha teratipally,teratipally@google.com,1
+Victor Palade,victor@cloudflavor.io,Victor Timofei,victor@vtimothy.com,0
+vikaschoudhary16,choudharyvikas16@gmail.com,vikaschoudhary16,vichoudh@redhat.com,1
+Vikas Choudhary,vichoudh@redhat.com,vikaschoudhary16,vichoudh@redhat.com,1
+vikram Jadhav,vikramcse.10@gmail.com,Vikram Jadhav,vikramcse.10@gmail.com,1
+Vinayak Goyal,vinaygo@google.com,vinayak goyal,vinaygo@google.com,1
+Vinayak Goyal,vinaygo@google.com,Vinayak Goyal,vinayakankugoyal@gmail.com,1
+vinay kulkarni,vskibum@gmail.com,Vinay Kulkarni,vinaykul@users.noreply.github.com,1
+Vinay Kulkarni,vinaykul@users.noreply.github.com,Vinay Kulkarni,vskibum@gmail.com,1
+Vincent Batts,vbatts@hashbangbash.com,Vincent Batts,vbatts@redhat.com,1
+Vishnu kannan,vishnuk@google.com,Vishnu Kannan,vishnuk@google.com,1
+Vivek Bagade,vivek.bagade92@gmail.com,vivekbagade,vivek.bagade92@gmail.com,1
+Vladimir Vivien,vivienv@vmware.com,Vladimir Vivien,vladimir.vivien@gmail.com,1
+Vojtech Vitek,vojtech.vitek@pressly.com,Vojtech Vitek,vojtech.vitek@gmail.com,1
+Walter Fender,wfender@google.com,walter,wfender@google.com,1
+Walter Fender,wfender@google.com,Walter Fender,cheftako@gmail.com,1
+wangyysde,net_use@bzhy.com,wangyysde,yuying.wang@daocloud.io,1
+wangyamei,wang.yamei@zte.com.cn,wangyamei00221466,wang.yamei@zte.com.cn,1
+WanLinghao,wanlh.fnst@cn.fujitsu.com,WanLinghao,wlh834532254@qq.com,1
+Wei Huang,weihuang@apple.com,Wei Huang,wei.huang1@ibm.com,1
+Wei Wei,weiwei@qiniu.com,Wei Wei,weiwei.inf@gmail.com,1
+Weibin Lin,linweibin1@huawei.com,Weibin Lin,islinwb@gmail.com,1
+Weixu Zhuang,weixu@appformix.com,weixu,weixu@appformix.com,1
+Will Daly,widaly@microsoft.com,Will Daly,will.e.daly@gmail.com,1
+William Zhang,warmchang@outlook.com,William Zhang,zhang.wanmin@zte.com.cn,1
+William Zhang,zhang.wanmin@zte.com.cn,William Chang,zhang.wanmin@zte.com.cn,1
+Wilson E. Husin,wilsonehusin@gmail.com,Wilson Husin,whusin@vmware.com,1
+Wilson E. Husin,wilsonehusin@gmail.com,Wilson E. Husin,wilsonehusin@users.noreply.github.com,1
+wizard,wizard_cxy@hotmail.com,wizard,wizardcxy@126.com,1
+wlan0,sidharthamn@gmail.com,wlan0,sid@rancher.com,1
+Wojciech Tyczyński,wojtekt@google.com,Wojciech Tyczynski,wojtekt@google.com,1
+wongearl,wangyongliang@beyondcent.com,wongearl,vamliang@163.com,1
+Wu Qiang,qiang.q.wu@oracle.com,Wu Qiang,qiang.q.wu@oralce.com,1
+xialonglee,li.xialong@zte.com.cn,xialong.lee,li.xialong@zte.com.cn,1
+Xiang Li,lixiang1992@gwu.edu,Xiang Li,xiangli.cs@gmail.com,1
+Xiangyang Chu,xychu2008@gmail.com,Xiangyang Chu,936394+xychu@users.noreply.github.com,1
+Xianglin Gao,xianglin.gxl@alibaba-inc.com,Xianglin Gao,xlgao@zju.edu.cn,1
+Xiang Dai,long0dai@foxmail.com,Xiang Dai,764524258@qq.com,1
+xiangpengzhao,zhao.xiangpeng@zte.com.cn,Xiangpeng Zhao,zhao.xiangpeng@zte.com.cn,1
+Xiang,xiangli.cs@gmail.com,Xiang Li,xiangli.cs@gmail.com,1
+xiaofei.sun,xiaoanyunfei@gmail.com,xiaofei.sun,sunxiaofei@kuaishou.com,1
+xichengliudui,1693291525@qq.com,xichengliudui,liuduidui@beyondcent.com,1
+Xin Wang,scaventz@outlook.com,Xin Wang,wileywang@yunify.com,1
+Xing Yang,xingyang105@gmail.com,Xing Yang,xing.yang@emc.com,1
+Xudong Liu,xudongliuharold@gmail.com,Xudong Liu,xudongl@vmware.com,1
+xufei 00416946,xufei40@huawei.com,xufei,xufei40@huawei.com,1
+xushiwei,xushiwei5@huawei.com,xushiwei 00425595,xushiwei5@huawei.com,1
+Xuzheng Chang,changxuzheng@huawei.com,XuzhengChang,changxuzheng@huawei.com,1
+yanghaichao12,yang.haichao@zte.com.cn,yanghaichao12,33426632@qq.com,1
+yarntime@163.com,yarntime@163.com,yarntime,yarntime@163.com,1
+Yassine TIJANI,ytijani@vmware.com,Yassine TIJANI,yasstij11@gmail.com,1
+Yecheng Fu,cofyc.jackson@gmail.com,Yecheng Fu,fuyecheng@pingcap.com,1
+Yifan Gu,yifan.gu@coreos.com,Yifan Gu,guyifan1121@gmail.com,1
+Yongkun Gui,ygui@google.com,Yongkun Anfernee Gui,agui@vmware.com,1
+yongruilin,yongrlin@outlook.com,yongruilin,yongrlin@google.com,1
+Yuan Chen,yuan_chen3@apple.com,Yuan Chen,yuanchen97@gmail.com,1
+yuchengwu,wyc123wyc@gmail.com,Yucheng Wu,wyc123wyc@gmail.com,1
+Yuki Yugui Sonoda,yugui@google.com,Yuki Sonoda (Yugui),yugui@yugui.jp,0
+yunwang0911,yunwang0911@outlook.com,yunwang0911,112385953+yunwang0911@users.noreply.github.com,1
+yupengzte,yu.peng36@zte.com.cn,yupeng,yu.peng36@zte.com.cn,1
+yupengzte,yu.peng36@zte.com.cn,YuPengZTE,yu.peng36@zte.com.cn,1
+yupeng,yu.peng36@zte.com.cn,YuPengZTE,yu.peng36@zte.com.cn,1
+yuqi huang,huangyuqi@huawei.com,yuqi huang,huangyuqi@users.noreply.github.com,1
+Yuvaraj Kakaraparthi,kakaraparthy@vmware.com,Yuvaraj Kakaraparthi,yuva2811@gmail.com,1
+Yuwen Ma,yuwenma@google.com,yuwenma,yuwenma@google.com,1
+Yuxiang Zhu,vfreex+git@gmail.com,Yuxiang Zhu,vfreex@gmail.com,1
+yuzhiquanlong,yuzhiquanlong@gmail.com,yuzhiquan,yuzhiquanlong@gmail.com,1
+z1cheng,imchench@gmail.com,z1cheng,im.cchen@foxmail.com,1
+Zbynek Roubalik,zroubalik@gmail.com,Zbynek Roubalik,726523+zroubalik@users.noreply.github.com,1
+ZeroMagic,jiliu8@microsoft.com,ZeroMagic,anthonyliu@zju.edu.cn,1
+zhangsheng02,sheng.zhang@daocloud.io,zhangsheng02,listenersheng@gmail.com,1
+zhangjie,iamkadisi@163.com,zhangjie,zhangjie0619@yeah.net,1
+zhengjiajin,zhengjiajin2016@gmail.com,zhengjiajin,zhengjiajin@caicloud.io,1
+zhouhaibing089,haibzhou@ebay.com,zhouhaibing089,zhouhaibing089@gmail.com,1
+Ziheng Liu,lzhfromustc@gmail.com,Ziheng Liu,zxl381@psu.edu,1
+zouyee,zounengren@cmss.chinamobile.com,zouyee,zouyee1989@gmail.com,1
+Zzde,zhangxh1997@gmail.com,zzde,zhangxh1997@gmail.com,1
