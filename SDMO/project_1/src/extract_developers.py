@@ -3,8 +3,6 @@ from git import Repo
 import pandas as pd
 import os
 
-# REPO_NAME = "moby"
-# REPO_NAME = "tensorflow"
 REPO_NAME = "kubernetes"
 
 def extract_developers(repo_path):
