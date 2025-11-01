@@ -1,7 +1,9 @@
 # SDMO Developer Duplicate Detection Project
 
 **Project Name:** SDMO Developer Deduplication
+
 **Language:** Python 3.12
+
 **Libraries:** pandas, gitpython, rapidfuzz, unittest
 
 ---
