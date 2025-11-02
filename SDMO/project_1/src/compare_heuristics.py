@@ -1,9 +1,7 @@
 import pandas as pd
 
 # --- Configuration ---
-#REPO_NAME = "kubernetes"
-REPO_NAME = "moby"
-#REPO_NAME = "tensorflow"
+REPO_NAME = "tensorflow"
 BIRD_FILE = rf"C:\MyWork\Acadamic\Masters\SDMO\SDMO_G45_PROJECT\SDMO\project_1\results\{REPO_NAME}\bird_duplicates_validated.csv"
 IMPROVED_FILE = rf"C:\MyWork\Acadamic\Masters\SDMO\SDMO_G45_PROJECT\SDMO\project_1\results\{REPO_NAME}\improved_duplicates_validated.csv"
 

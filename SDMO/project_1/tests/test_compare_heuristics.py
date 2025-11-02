@@ -48,7 +48,7 @@ class TestCompareHeuristics(unittest.TestCase):
         result = evaluate(self.bird_file, label="Bird Heuristic")
         self.assertEqual(result['TP'], 2)
         self.assertEqual(result['FP'], 1)
-        self.assertAlmostEqual(round(result['Precision'], 3), round(2/3, 3))
+        self.assertAlmostEqual(result['Precision'], 2/3, places=3)
 
 
     def test_improved_evaluation(self):

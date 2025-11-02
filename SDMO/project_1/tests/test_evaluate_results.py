@@ -51,7 +51,7 @@ def test_evaluate_results_empty_file(tmp_path, capsys):
     except ZeroDivisionError:
         result = {"TP": 0, "FP": 0, "Precision": 0, "Recall": 0, "F1": 0}
 
-    captured = capsys.readouterr()
+    
     assert isinstance(result, dict)
     assert result["TP"] == 0
     assert result["FP"] == 0

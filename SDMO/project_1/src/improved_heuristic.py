@@ -5,9 +5,7 @@ import re
 from itertools import combinations
 
 # ---------------- SETTINGS ----------------
-REPO_NAME = "moby"
-#REPO_NAME = "tensorflow"
-#REPO_NAME = "kubernetes"
+REPO_NAME = "tensorflow"
 INPUT_FILE =  rf"C:\MyWork\Acadamic\Masters\SDMO\SDMO_G45_PROJECT\SDMO\project_1\results\{REPO_NAME}\developers_raw.csv"
 OUTPUT_FILE = rf"C:\MyWork\Acadamic\Masters\SDMO\SDMO_G45_PROJECT\SDMO\project_1\results\{REPO_NAME}\improved_duplicates.csv"
 

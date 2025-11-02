@@ -1,7 +1,6 @@
 import pandas as pd
 
-#REPO_NAME = "tensorflow"
-REPO_NAME = "kubernetes"
+REPO_NAME = "tensorflow"
 INPUT_FILE = rf"C:\MyWork\Acadamic\Masters\SDMO\SDMO_G45_PROJECT\SDMO\project_1\results\{REPO_NAME}\bird_duplicates_validated.csv"
 
 def evaluate_results(file_path):
@@ -24,6 +23,7 @@ def evaluate_results(file_path):
     f1 = (2 * precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
 
     print("\n📊 Evaluation Results (Bird Heuristic)")
+    print("Repo name: ", REPO_NAME)
     print("-----------------------------------")
     print(f"Total pairs evaluated : {len(df)}")
     print(f"Total actual duplicates : {total_actual_duplicates}")

@@ -1,7 +1,6 @@
 import pandas as pd
 
 REPO_NAME = "tensorflow"
-#REPO_NAME = "kubernetes"
 INPUT_FILE = rf"C:\MyWork\Acadamic\Masters\SDMO\SDMO_G45_PROJECT\SDMO\project_1\results\{REPO_NAME}\improved_duplicates_validated.csv"
 
 def evaluate_results(file_path):
