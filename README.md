@@ -97,8 +97,14 @@ Generates CSV outputs:
 results/<REPO_NAME>/bird_duplicates.csv
 results/<REPO_NAME>/improved_duplicates_validated.csv
 ```
+### 3. Manually check Duplicates
 
-### 3. Evaluate and Compare Heuristics
+```
+![Manually check Duplicates](https://github.com/user-attachments/assets/e25f7cea-7435-478c-accf-2bfae74f5055)
+
+```
+
+### 4. Evaluate and Compare Heuristics
 
 ```bash
 python src/compare_heuristics.py
